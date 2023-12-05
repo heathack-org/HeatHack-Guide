@@ -13,16 +13,17 @@ jupyter-book build . --builder html --all
 
 This is largely generated from a spreadsheet, using hand-authored pages to introduce the game, describe the wildcard, and describe excluded actions. There is a wildcard row in the spreadsheet (card 48) and the hand-authored version is just a doctored copy.
 
+
 There is some hand-authored content for some of the cards in the card-explanations directory; this is appended to the automatically generated content. The explanations are now just links into other parts of the guide book so that we can shift them into the spreadsheet, making it easier to manage them.
 
 To generate the table of contents and most of the website pages:
 
 Create a virtual python environment and install openpyxl and pandas; activate it.
 
+
 python -m venv card-game-venv   --- to create virtual environment
 source card-game-venv/bin/activate --- to start using the virtual environment
 python -m pip install openpyxl pandas
-
 
 Cd to the aux directory.  Ensure master-spreadsheet.xlsx contains the spreadsheet source.  It needs a steps and a cards worksheet and columns as names in cards-template.txt and steps-template.txt.
 
