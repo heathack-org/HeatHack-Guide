@@ -9,7 +9,7 @@ Our programme is for small groups - ideally around six people. The programme is 
 Here are some of the questions you will think about during the sessions:
 
 - Are we using the right strategy to make people warm and comfortable given how we use our building?
-- What does our community need from this building, and does it need changes to serve them better that will affect our heating strategy?
+- What does our community need from this building?  Does that mean changes to the building itself so that it meets those needs?  
 - What kind of heating system should we put in next, and when should we do that?
 - Do we need to make changes to the building so that it doesn't lose as much heat?  What would work best, what would it cost, and how can we pay for it?
 - Are we using the current heating as efficiently as we can, and would changing the heating controls help?
@@ -29,11 +29,11 @@ Here are some of the questions you will think about during the sessions:
 
 ::::
 
-The programme isn't like going to a normal meeting. Instead, it is made up a sequence of activities that introduce the concepts you will need to answer these questions.  The activities will help you come to agreement about what you want to achieve in the future and make a plan for what to do when.
+The programme isn't like going to a normal meeting. Instead, it is made up a sequence of activities that introduce the concepts you will need to answer these questions.  The activities will help you come to agreement about what you want to achieve in the future and make a plan for what to do when.  The sessions are specifically designed to help you get the big picture right and evidence it for future grant funders, saving you time  and money in the long run, and helping you reduce your impact on the planet more quickly.
 
+```{admonition} Reusing our materials 
+All of our materials are freely available under a Creative Commons license.  If you use them, please tell us about what you are doing and credit us, so we can improve what we do and justify ourselves to funders.
 
-```{admonition} Important
+- [License Terms CC-By-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-All groups relying on the support we provide using our Royal Academy of Engineering funding must complete the programme by February 2024.  We expect to continue the programme afterwards but cannot guarantee the same level of support.
-
-``````
+```

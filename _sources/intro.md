@@ -1,6 +1,11 @@
 # Welcome
 
-Welcome to the HeatHack programme for community building operators.  This is the "master guide" for participating venues.  It explains the programme and provides links to all publicly available materials for it.
+Welcome to the HeatHack programme for UK community building operators.  This is the "master guide" for participating venues.  It explains the programme and provides links to all publicly available materials for it. 
+
+```{admonition} Scottish Episcopal Church
+
+If you are from the Scottish Episcopal Church, yes, you **are** in the right plaace.  They are adopting our programme for their new Net Zero workshops.  Please bear with us while they get their Net Zero team in place and take over programme administration for their congregations.
+```
  
 We are always learning from our venues doing our best to respond to their needs.  Please tell us what we should add.  
 <!-- 

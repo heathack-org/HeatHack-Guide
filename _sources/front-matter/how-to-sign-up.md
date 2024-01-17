@@ -4,7 +4,7 @@ We are currently accepting applications from community groups.
 
 ````{admonition} Scottish Episcopal Church congregations
 
-If you are a Scottish Episcopal Church congregation and want to participate, please make sure we know this.  Their Net Zero Workshops are based on our programme, but tailored to your circumstances.  
+If you are a Scottish Episcopal Church congregation and want to participate, please make sure we know this.  Their Net Zero Workshops are based on our programme, but tailored to your circumstances.  We are in the process of handing over programme administration to their new Net Zero team.
 
 ````
 

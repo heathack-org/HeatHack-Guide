@@ -18,10 +18,14 @@ The monitor saves the data for you to pick up later using a smartphone or laptop
 ::::
 
 
+With a **version 3** monitor, you can change between internet and save mode whenever you want, for instance, using internet mode where the wifi is good and save mode where it is patchy.  You can only one use radio mode if we have provided you with the right equipment. 
 
-There is actually a third mode available, **radio** mode.  This mode is only for venues that have wifi but need to monitor locations that are so hard to access it would be difficult to change the monitor batteries.  In radio mode, we add an extra component - a radio - to the monitor and give the group a separate base station or "hub" that plugs into the wall within radio range. The monitor takes the temperature and relative humidity readings, sends them to the hub, and then the hub sends them to This makes the monitor battery last longer but it is more expensive and harder to set up, so we now only do this where the other modes won't work.
+If you have a **version 1 or 2 monitor**, you decided which mode to use before we sent you the monitor.  These monitors always use save mode or radio mode.  If you need to switch mode, let us know.   
 
 
-With a version 3 monitor, you can change between internet and save mode whenever you want, for instance, using internet mode where the wifi is good and save mode where it is patchy.  You can only one use radio mode if we have provided you with the right equipment. 
+```{admonition} What is Radio Mode?
 
-If you have a version 1 or 2 monitor, you decided which mode to use before we sent you the monitor.  These monitors always use save mode or radio mode.  If you need to switch mode, let us know.   
+Your monitor won't work in radio mode unless we tell you it can.  Radio mode is meant for venues that have wifi but need to monitor locations that are so hard to access it would be difficult to change the monitor batteries - like inside a church organ.  These monitors have a radio and a separate base station or "hub" that plugs into an electricity socket nearby.   The monitor takes the temperature and relative humidity readings, sends them to the hub, and then the hub sends them to the internet.  We only do this when necessary because it's more expensive and harder to set up. 
+
+```
+

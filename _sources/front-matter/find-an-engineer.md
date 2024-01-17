@@ -24,6 +24,8 @@ Some engineers already know about energy use in buildings from their work, and t
 
 If an engineer is still in employment, their employer may encourage them to participate as part of their Corporate Social Responsibility programme. 
 
+If you can't find an engineer, please get in touch.  We may be able to help.  
+
 
 :::
 :::{grid-item}
