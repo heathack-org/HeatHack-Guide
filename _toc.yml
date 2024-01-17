@@ -276,6 +276,7 @@ chapters:
         - file: our-monitors/access/turn-monitor-on
         - file: our-monitors/access/connect-to-monitor
         - file: our-monitors/access/load-interface
+        - file: our-monitors/access/troubleshooting
 
     - file: our-monitors/setup-v3
       sections:

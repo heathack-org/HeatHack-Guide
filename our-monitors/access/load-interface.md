@@ -13,6 +13,8 @@ One you are connected, you can configure the thermal monitor using your browser.
 
 ```{admonition} Common error message
 
-Some web browsers like Safari require secure communication by default.  Others give you the option to require it.  Our monitor is too cheap to communicate securely.  If you get an error message about HTTP, HTTPS, or security, you will need to change your settings temporarily to allow HTTP connections while you set up the hub.  
+Some web browsers like Safari require secure communication by default.  Others give you the option to require it.  If you get an error message about HTTP, HTTPS, or security, change your settings to allow insecure connections.
+
+- [Troubleshooting access to the monitor (gives more details about how)](access-troubleshooting)
 
 ``` 

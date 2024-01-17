@@ -24,7 +24,7 @@ We offer training for group leaders and engineers to introduce them to the progr
 ::::
 
 
-We are currently re-designing the training.  It will then use this guide.  You can find our existing materials, apart from the video recordings of past training sessions, here:
+We are currently re-designing the training materials to use this guide, but they are still usable.  You can find our existing materials, apart from the video recordings of past training sessions, here:
 
 
 - [Group Leader Training](https://drive.google.com/drive/folders/1IUpmwuS9PwC9-9DsqXx4rR9FD8PutqjS?usp=drive_link)
@@ -32,9 +32,7 @@ We are currently re-designing the training.  It will then use this guide.  You c
 
 If you would like access to the videos, please tell us.
 
-- [Start an email to request training video access](mailto:training@heathack.org?subject=training%20videos)
-
-[comment]: # (:TODO: set up training@heathack.org)
+- [Start an email to request training video access](mailto:admin@heathack.org?subject=training%20videos)
 
 
 
