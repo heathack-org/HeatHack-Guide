@@ -8,6 +8,9 @@ If you are from the Scottish Episcopal Church, yes, you **are** in the right pla
 ```
  
 We are always learning from our venues doing our best to respond to their needs.  Please tell us what we should add.  
+
+This project was supported by the Royal Academy of Engineering under the Ingenious Awards programme. We are grateful for their support.
+
 <!-- 
 ```{note}
 Originally this website had supplementary reading materials for the programme.  We  are currently rewriting it to contain almost everything, pointing to Google documents for the rest, to make our programme less confusing.  Please bear with us while we do this. 
