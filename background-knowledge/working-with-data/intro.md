@@ -5,7 +5,7 @@ It won't be obvious at first sight, but it's possible to tell a fair bit about t
 
 ```{admonition} Hint
 
-The plots in this section are just images so you can't use the controls to change what you see.  To try these techniques, use the data book.
+The plots in this section are just images so you can't use the controls to change what you see.  To try these techniques, use the Data Book.  To work with your own data, you'll need your venue number. 
 
 - [HeatHack Data Book](https://jeancarletta.github.io/HeatHack-Data/intro.html)
 ```

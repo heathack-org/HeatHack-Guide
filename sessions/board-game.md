@@ -48,7 +48,7 @@ The challenge for the group leader is to keep the group on track.  Most people a
 
 The challenge for the engineer the second time the tame is played is being able to read the thermal monitoring data quickly enough to comment on thermal comfort.  This is easiest if they have diary access ahead and the time to look at the data for a typical week, marking up when the users are in.
 
-- [Accessing thermal monitoring data](accessing-data)
+- [HeatHack Data Book](https://jeancarletta.github.io/HeatHack-Data/intro.html)
 - [What to look for in temperature data](working-with-data)
 - [Judging user comfort and waste](judging-user-comfort)
 

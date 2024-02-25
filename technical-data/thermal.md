@@ -5,8 +5,7 @@ Regular temperature readings are very useful for understanding where you are was
 
 Your heating controls might already log room temperature for you.
 
-Relative humidity readings are also useful if you have any concerns about damp or dryness in your building.  That might be because you want to be sure the conditions are right for people, or it might be because you want to safeguard the building or its contents.  This is less important than recording temperature because if it's too damp or too dry for the people in the building, it should be obvious.  However, if you are a church with a pipe organ or other sensitive furnishings, or a building with unfrequented spaces that you think might be damp, it's useful to have a device capable of monitoring relative humidity so you can use it for this some of the time.  It's difficult to measure relative humidity accurately so you should treat the readings as approximate.
-
+Relative humidity readings are also useful if you have any concerns about damp or dryness in your building.  That might be because you want to be sure the conditions are right for people, or it might be because you want to safeguard the building or its contents.  This is less important than recording temperature because if it's too damp or too dry for the people in the building, it should be obvious.  However, if you are a church with a pipe organ or other sensitive furnishings, or a building with unfrequented spaces that you think might be damp, it's useful to have a device capable of monitoring relative humidity (RH) so you can use it for this some of the time.  It's difficult to measure relative humidity accurately so you should treat the readings as approximate.
 
 ::::{grid} 1 1 1 2 
 :gutter: 2
@@ -30,12 +29,18 @@ Relative humidity readings are also useful if you have any concerns about damp o
 :::
 ::::
 
-We have a volunteer who makes cheap monitors that can either save temperature and relative humidity readings for you to pick up with a smartphone or send them to the internet, but we can't always guarantee to have enough monitors for every group.  Other groups can buy commercial devices called "data loggers".  It is expensive to get ones that send data to the internet.  More often, the logger is a USB stick and you pick up the data using a laptop.  It costs around £45 to get a temperature logger and £65 to get one that logs temperature and relative humidity.  There are several companies that make them.  Devices from less established companies might be cheaper, but it's possible you get what you pay for - we aren't sure.  Lascar Easylog USB is a common choice so you could compare your options to those.
+If you have the money, you can get a commercial "data logger".  These are usually USB sticks and are easy to use with free software provided.  The cheaper options don't send data to the internet.  Instead, you have to pick up the data using the software on a computer.   There are several companies that make them.  It costs around £45 to get a commercial temperature logger, £65 to get one that logs temperature and relative humidity, and £140 to get one that sends data to the internet for cloud storage.    
+Devices from less established companies might be cheaper, but it's possible you get what you pay for - we aren't sure.  Lascar Easylog USB is a common choice so you could compare your options to those.
+
+
+- [Lascar EasyLog USB - basic temperature model](https://www.lascarelectronics.com/easylog-el-usb-1)  
+- [Lascar Easylog USB - basic temperature plus RH model](https://www.lascarelectronics.com/easylog-el-usb-2)
+- [Lascar Easylog USB - temperature plus RH with an internet connection and cloud data storage](https://lascarelectronics.com/data-loggers/temperature-humidity/el-wifi-th/)
+
+We have volunteers who use cheap electronic parts to make something that can be used either to save the data to pick up or send it to the internet for cloud storage.  They aren't as good as a commercial data logger, especially if you don't have wifi in your building, because they are buggier and harder to use.  If you have wifi, any pain is just at the beginning to get them connected - after that, they usually just work.  Some have been running for over a year but a few groups haven't managed them at all and quite a few have needed phone help from us while they are setting it up.  We're still discovering improvements we can make.  If you'd like to try one, let us know.  They are currently free but in future we may suggest you make a donation to cover the cost of parts and postage. 
 
 - [How to Use Our Thermal Monitors](our-monitors)
-- [Lascar EasyLog USB - basic temperature model](https://www.lascarelectronics.com/easylog-el-usb-1)
-- [ Lascar Easylog USB - basic temperature plus RH model](https://www.lascarelectronics.com/easylog-el-usb-2)
 
-We just use the word "monitor" to mean either our thermal monitor or a commercial data logger.
+We just use the word "thermal monitor" to mean either what our volunteers build or a commercial data logger because people find the term less puzzling.
 
 
