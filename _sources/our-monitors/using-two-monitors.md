@@ -1,6 +1,6 @@
 # Using two monitors at once
 
-Some venues are able to build a second monitor or borrow one from another venue.  With version 3 monitors, there's no problem - they will all connect to the internet independently.
+Some venues are able to build a second monitor or borrow one from another venue.  With version 3 and higher, there's no problem - they will all connect to the internet independently.
 
 With earlier monitors, if you run them both in internet mode, all the readings end up on one ThingSpeak feed.  Please instead run one of the monitors in "save" (standalone) mode.  The process for setting this up is very like the version 3 instructions but you have to visit a hidden webpage:
 
