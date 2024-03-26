@@ -27,6 +27,6 @@ On your device, look for the "heathack-NUM" wifi hotspot, where NUM is your venu
 
 - Only one person at a time should try to connect to the monitor. 
 
-- You can make your phone, tablet, or laptop check for the heathack-s network more frequently to speed things up.  On a phone, it is usually done by pulling down from the top to refresh the wifi network list.  On a Windows laptop, the list will refresh every time you click on the network connection icon in the taskbar.
+- You can make your phone, tablet, or laptop check for the heathack-NUM network more frequently to speed things up.  On a phone, it is usually done by pulling down from the top to refresh the wifi network list.  On a Windows laptop, the list will refresh every time you click on the network connection icon in the taskbar.
 
 ```

@@ -11,9 +11,9 @@ Don't forget to change the settings back again afterwards.
 
 
 ::::{grid} 1 1 2 2 
-:::{grid-item-card}  Successful connection to heathack-s despite lack of internet 
+:::{grid-item-card}  Successful connection to a monitor despite lack of internet 
 ```{image} /images/monitoring/troubleshoot-access/no-internet-secured.png
-:alt: pop-up reading heathack-s no internet, secured
+:alt: pop-up reading "heathack-s no internet, secured"
 :class: mb-1
 :width: 400px
 :align: center
