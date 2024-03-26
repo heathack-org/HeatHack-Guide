@@ -27,7 +27,7 @@ You can now go back on the internet to check whether your monitor connected prop
 
 Your ThingSpeak page might look a bit different as we have to set up each one by hand and don't always remember.
 
-The page has read-out of the most recent temperature received along with how long ago ThingSpeak received it.  If you have only just turned the monitor off and on, this should be recent.  The website usually shows the reading within a minute or two.  Occasionally there are long delays.  We are asking the service provider about them.  
+The page has read-out of the most recent temperature received along with how long ago ThingSpeak received it.  If you have only just turned the monitor off and on, this should be recent.  The website usually shows the reading within a minute or two. 
 
 
 If everything looked like it worked but you don't see any data on ThingSpeak within 5 minutes, you probably entered the wrong password and will need to try again.

@@ -23,7 +23,7 @@ For any wifi networks that are in range, turn off auto-connection until your mon
 ::::{grid-item-card} Wired connections
 :columns: 4
 
-On computers, unplug ethernet cables, USB cables providing wired internet, and USB wifi dongles.
+On computers, unplug ethernet cables and USB cables providing wired internet.
 ::::
 :::::
 
