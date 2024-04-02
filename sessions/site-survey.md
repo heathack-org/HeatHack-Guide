@@ -1,11 +1,26 @@
-# Site Survey
+# Building Survey
 
 
+::::{grid} 
+:::{grid-item}
+:columns: 6
 This activity is a simplified version of what energy efficiency consultants do during a site survey. During it, the group fills out a form with basic information about parts of the building that relate to heating, heat loss, and ventilation.
 
-- [Session 2 Survey Form](https://docs.google.com/document/d/13ByjSw0NQAjF7fzfruSMPpP4ebGHkNFw)
+   - [The Site Survey (Video)](https://youtu.be/fdYA978sLq8) 
+   - [Building Survey Form](https://docs.google.com/document/d/13ByjSw0NQAjF7fzfruSMPpP4ebGHkNFw)
+:::
 
-**The site survey activity ensures your entire group is familiar with the building.**  That way they can all contribute to the planning process.  Even if one or two people know all about the building, you need to do something to aid the group's thinking.  Otherwise you may end up with plans that miss useful insights or that could fail to gain community support. 
+:::{grid-item}
+:columns: 6
+
+<iframe width="315" height="240"
+src="https://www.youtube.com/embed/fdYA978sLq8">
+</iframe>
+  
+:::
+::::
+
+**The building survey activity ensures your entire group is familiar with the building.**  That way they can all contribute to the planning process.  Even if one or two people know all about the building, you need to do something to aid the group's thinking.  Otherwise you may end up with plans that miss useful insights or that could fail to gain community support. 
 
 We've structured the survey as if the group has no existing documentation for their building, and for some groups, this is correct.  For the smallest and simplest buildings, the group can all stay together to conduct the survey.  For some buildings, the group can split into two or three subgroups and report back on their sections of the form.  In others, the group will need to focus on one or two spaces, use those throughout the sessions, and discuss what they want to do for the rest of their premises.
 

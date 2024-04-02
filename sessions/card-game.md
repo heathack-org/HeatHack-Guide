@@ -1,13 +1,37 @@
 (card-game-tips)=
 # Card Game
 
-We use an action card game to help groups think about change. Groups like the tactility of cards and they help encourage everyone to participate.  Although there are many cards, groups tell us that they find their way through them quickly and it makes sense of a hard problem in a short time.  The point of the game is to get people thinking, not to set a final plan in stone.  One person may offer to take the cards away and come back with "the solution", but that risks missing important insights and doesn't do as much to create support and enthusiasm for change.  It's also very important to go through the board game activity before the group finalises their proposed plan in the final session.  
+We use an action card game to help groups think about change. Groups like physical cards and they help encourage everyone to participate.  Although there are many cards, groups find their way through them quickly and it makes sense of a hard problem in a short time.  The point of the game is to get people thinking, not to set a final plan in stone.  One person may offer to take the cards away and come back with "the solution", but that risks missing important insights and doesn't do as much to create support and enthusiasm for change. 
 
-This page is just the tips for running the game.  The instructions for how to play the game, the online versions of the cards, and links that help groups act on them are here:
+::::{grid} 
+:outline:
+:gutter: 2
 
-- [](card-game-intro)
+:::{grid-item} 
+:columns: 6
 
-After the game, the engineer is usually the one to document the game outcome.  This documentation is important.   The rest of the local community and grant funders will want to know not just what you think your organisation should do, but also why.  We provide the simplest form of planning template to help you record this, but you can change it to work however makes sense to you.   
+To play it, you need to spread out the cards and set out four areas for them to end up:  
+
+- **Done** for things you've already done.
+- **Good for us** for things you think you should do.
+- **Not for us** for things you don't think are relevant for your building and its users.
+- **More information** for things that you need more information about
+
+:::
+:::{grid-item} 
+:columns: 6
+
+
+<iframe width="315" height="240"
+src="https://www.youtube.com/embed/dBEl7wL_xAA">
+</iframe>
+
+   - [Card Game Instruction Video](https://youtu.be/dBEl7wL_xAA) 
+   - [Full explanation with all the cards](card-game-intro)
+:::
+::::
+
+After the game, the engineer is usually the one to document the game outcome.  This documentation is important.   The rest of the local community and grant funders will want to know not just what you think your organisation should do, but also why.  We provide the simplest form of planning template to help you record this, but you can change it however makes sense to you.   
 
 - [Card Game Planning Template](https://docs.google.com/spreadsheets/d/1awgz59-DrDmwQMRtJe6_RLXAxE6ZZmPV/)
 
@@ -34,7 +58,7 @@ Some funders are keen to see the reasoning even for the actions you haven't chos
 
 We recommend you take a photo at the end, although this will only tell you which area the cards belong to.
 
-# The engineer 
+## The engineer 
 
 Your role is to help the group think coherently about where to put the cards, and also to guide the group through a big card set in a short time.  It's helpful if you can read the brief summaries on the cards ahead of time.  This website contains practical links for the actions.  These are really for later on.  If the group asks you a question, it's perfectly fine not to know the answer, and to say so!
 
@@ -47,9 +71,6 @@ Groups that will be running on gas or oil boilers will benefit from the cards th
 
 If a group already knows that they intend to move to a different heating technology quickly, the heating control cards will be a distraction.
 
-After the game, the engineer is usually the one to document the game outcome.  This documentation is important.   The rest of the local community and grant funders will want to know not just what you think your organisation should do, but also why.  We provide a planning template to help you record this.
-
-- [Card Game Planning Template](https://docs.google.com/spreadsheets/d/1awgz59-DrDmwQMRtJe6_RLXAxE6ZZmPV/)
 
 
 <!--

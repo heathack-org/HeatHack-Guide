@@ -1,5 +1,5 @@
 (schedules)=
-# What happens during sessions
+# Running the sessions
 
 Sessions aren't like business meetings.  They are designed to give an equal voice to everyone in the group, encourage the quiet to speak, leading the group to agree on what to do in a way that is likely to be acceptable to the wider community.  That means how they are run is a little different.  
 
