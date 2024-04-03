@@ -3,7 +3,7 @@
 ::::{grid} 
 :::{grid-item}
 :columns: 9
- HeatHack is a group of community volunteers that helps churches and other community groups understand how to heat their buildings better.    We started in and around Edinburgh in Scotland with groups that were cold but had high gas bills.   We understand the things community groups find difficult because that's where we come from - we had to learn everything from scratch to do our work.  We have always combined a bit of technology for temperature monitoring with engineering and a lot of thinking about what people actually do when they are in buildings.   
+ HeatHack is a group of community volunteers that helps churches and other community groups understand how to heat their buildings better.    We started in and around Edinburgh in Scotland with groups that were cold but had high gas bills.   We understand the things community groups find difficult because that's where we come from - we had to learn everything from scratch to do our work.  We have always combined a bit of technology for temperature monitoring with engineering and a lot of thinking about what people actually do when they are in buildings.   In 2010, it was just Jean Carletta and an engineer who saw her looking at the heating controls scratching their heads over some very complex problems in an Edinburgh church.  It took calling in a personal favour from a university engineering lecturer to understand one of the issues. HeatHack grew from there.
  :::
 :::{grid-item}
 :columns: 3
@@ -31,7 +31,7 @@ Since 2012, Surefoot has been helping communities, businesses and governments pu
 :::
 :::{grid-item}
 :padding: 2
-```{image} ../images/surefoot-logo.png
+```{image} /images/surefoot-logo.png
    :alt: link to Surefoot Effect CIC
    :class: mb-1
    :height: 165px
@@ -55,7 +55,7 @@ Engineers Without Borders UK is working to reach the tipping point to ensure a s
 :::
 :::{grid-item} 
 :padding: 2
-```{image} ../images/EwB-white-background.png
+```{image} /images/EwB-white-background.png
 :alt: Engineers without Borders UK
 :class: mb-1
 :width: 150px
@@ -80,7 +80,7 @@ Harnessing the power of engineering and technology to build a sustainable societ
 :::
 :::{grid-item} 
 :padding: 2
-```{image} ../images/ingenious-logo-white-background.png
+```{image} /images/ingenious-logo-white-background.png
 :alt: Royal Academy of Engineering
 :class: mb-1
 :height: 96px

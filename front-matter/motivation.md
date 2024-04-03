@@ -12,7 +12,7 @@ Our programme helps community groups reduce energy use and plan changes to their
 
 :::{grid-item}
 :columns: 4
-```{image} ../images/greyfriars-charteris_1024x1024.jpg
+```{image} /images/greyfriars-charteris_1024x1024.jpg
 :alt: 
 :class: mb-1
 ```
@@ -21,7 +21,7 @@ Our programme helps community groups reduce energy use and plan changes to their
 
 :::{grid-item}
 :columns: 4
-```{image} ../images/geograph-1941179-by-Stephen-Craven.jpg
+```{image} /images/geograph-1941179-by-Stephen-Craven.jpg
 :alt: 
 :class: mb-1
 ```
@@ -30,7 +30,7 @@ Our programme helps community groups reduce energy use and plan changes to their
 
 :::{grid-item}
 :columns: 4
-```{image} ../images/Boxley_Church_Hall_-_geograph.org.uk_-_3587985.jpg
+```{image} /images/Boxley_Church_Hall_-_geograph.org.uk_-_3587985.jpg
 :alt: 
 :class: mb-1
 ```

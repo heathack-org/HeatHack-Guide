@@ -35,16 +35,12 @@ Depending on your circumstances, this might include:
 
 Your choice will depend on local circumstances.  As long as your building has at least six people who care enough about what happens to it in the future to take part and the owners or managers are receptive to change, the programme is for you.  
 
-We also **highly recommend** that your group include an engineer and have written the materials assuming that you do.
-
-```{note}
-If you are participating in our Royal Academy of Engineering-supported programme, your group must have an engineer.  If you are unsure whether someone is an engineer, ask them!
-Most engineers will have a university degree in engineering or have been an engineering apprentice, but there are others who have learned what they know by other routes, and they are welcome on our programme.
-```
+We also **highly recommend** that you find an volunteer engineer to be in your group and our session guides assume you will have someone playing this role. If you are unsure whether someone is an engineer, ask them!
+Most engineers will have a university degree in engineering or have been an engineering apprentice, but there are others who have learned what they know by other routes, occasionally without ever even being employed as an engineer, and they are welcome on our programme.  The engineer doesn't need to know about heating or buildings.  It's their general engineering skills that are important.  Past groups have told us how grateful they have been for what their engineers have brought to the group, especially if they aren't someone already involved in the organisation so they can bring fresh eyes to the building.
 
 <!--
 
-```{image} ../images/krakenimages-Y5bvRlcCx8k-unsplash.jpg
+```{image} /images/krakenimages-Y5bvRlcCx8k-unsplash.jpg
 :alt: 
 :class: mb-1
 :width: 400px

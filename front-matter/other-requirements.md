@@ -2,7 +2,7 @@
 
 Beyond having a group leader who will run the sessions, and preferably an engineer who will assist:
 
-- You must tell us specific dates when you expect to run sessions.  Otherwise there's too much risk that we will waste our funds by sending you a thermal monitor and card game that you won't use.  Setting dates is the thing groups find hardest about the whole programme.  We prefer you to schedule all sessions from the beginning.  
+- You must tell us specific dates when you expect to run sessions.  Otherwise there's too much risk that we will waste our funds and volunteer time by sending you a thermal monitor and card game that you won't use.  Setting dates is the thing groups find hardest about the whole programme.  We prefer you to schedule all sessions from the beginning.  
 
 - The group leader should fill out a very brief session report after each session telling us things like how many people were there and what you need from us.   
 
@@ -17,6 +17,7 @@ Beyond having a group leader who will run the sessions, and preferably an engine
 
 - We may ask for a brief interview to understand how the programme was for you and what the impact was for your organisation, so we can improve the programme and attract new funding.
 
+<!--
 ````{admonition} Royal Academy of Engineering programme participants
 
 These groups get priority attention from us, and the chance to claim expenses, but they must have a participating engineer.  Additionally:
@@ -30,6 +31,6 @@ These groups get priority attention from us, and the chance to claim expenses, b
 ````
 
 
-
+-->
 
 

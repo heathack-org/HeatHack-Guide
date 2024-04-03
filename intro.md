@@ -12,46 +12,64 @@ This project was supported by the Royal Academy of Engineering under the Ingenio
 
 :::
 :::{grid-item}
-:columns: 3
+:columns: 6
 
 <iframe width="315" height="240"
 src="https://www.youtube.com/embed/P1Lu8RFfii0">
 </iframe>
 ::::
 
-::::{grid} 
+::::::{grid} 
 :outline:
 
-:::{grid-item}
+:::::{grid-item}
 :columns: 9
 
 **Scottish Episcopal Church congregations**
 
-If you are from the Scottish Episcopal Church, yes, you **are** in the right place.  They are adopting our programme for their new Net Zero workshops, with a team in place to help congregations use it and also help them act on their plans.  Please bear with us while they get their Net Zero team in place and take over providing this support.
+If you are from the Scottish Episcopal Church and wanting to run their Net Zero Workshops, yes, you **are** in the right place.  However, you should start here:
 
-The Scottish Episcopal Church has their own version of the card game with links that are specific to them.  The tips on this page are still useful for running the game, but go to their website for the game itself.  It just has their own design plus a few extra cards, like using green energy tariffs. You can get the cards from your Diocese office.
+- [Workshops - SEC Net Zero Portal](https://netzerochurch.scot/workshops/)
 
-- [HeatHack Card Game - Scottish Episcopal Church version](https://toolkit.secnetzero.org/online-cards.html)
+The workshops are based on our programme, and you will use this Guide Book for running your sessions, with a couple of minor differences.
+:::::
 
-There are also special SEC versions of the session schedules.  These are very similar to the main programme, but are designed to allow for a break for vestry approval before thinking about community engagement, in case that is how things work in your charge.  You have an option of 3 2-hour sessions or 2 3-hour sessions, but most groups find they want an additional "free-form" session to finish their planning, plan for community engagement, or both.
-
-- [Session Schedules in Google Drive](https://drive.google.com/drive/folders/1giDUTY_4KuOFcrWe3FJIShxj31p82MQv)
-
-:::
-:::{grid-item}
+:::::{grid-item}
 :columns: 3
+
 <iframe width="210" height="157"
 src="https://www.youtube.com/embed/OkUaYvjk3ls">
 </iframe>
+:::::
 
-:::
+:::::{grid-item}
+:columns: 6
 
-::::
+
+```{image} /images/sec-card-pile.jpg
+:alt: 
+:class: mb-1
+:width: 420px
+```
+
+:::::
+
+:::::{grid-item}
+:columns: 6
+You have your own version of the HeatHack action card game.  Our explanations of the game and tips for how to run it are still useful, but go to their website to see the cards online and extra links for supporting you to take the actions.   You can get the cards from your Diocese office.  They're a different graphical design.  Most of the cards are the same but they have a few extra ones, like using green energy tariffs.
+
+- [HeatHack Card Game - Scottish Episcopal Church version](https://toolkit.secnetzero.org/online-cards.html)
+:::::
+:::::{grid-item}
+:columns: 12
+
+There are also special versions of the session schedules.  These are very similar to the main programme, but are designed to allow for a break for vestry approval before thinking about community engagement, in case that is how things work in your charge.  You have an option of 3 2-hour sessions or 2 3-hour sessions, but most groups find they want an additional "free-form" session to finish their planning, plan for community engagement, or both.
+
+- [SEC Session Schedules in Google Drive](https://drive.google.com/drive/folders/1kCdCiY-2rFKPbnhMGkfRLhw26R2KlAEq)
+
+:::::
+
+
+::::::
  
 
-
-<!-- 
-```{note}
-Originally this website had supplementary reading materials for the programme.  We  are currently rewriting it to contain almost everything, pointing to Google documents for the rest, to make our programme less confusing.  Please bear with us while we do this. 
-```
- -->

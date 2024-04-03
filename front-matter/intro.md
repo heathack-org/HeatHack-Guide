@@ -21,7 +21,7 @@ All of these are valid reasons for taking part.
 :::
 :::{grid-item}
 :columns: 3
-```{image} ../images/path-g9c5fe6cfd_1280.jpg
+```{image} /images/path-g9c5fe6cfd_1280.jpg
 :alt: 
 :class: mb-1
 :width: 200px
@@ -38,7 +38,7 @@ We hope you find the programme useful in your journey, and that together we can 
 *Image by Peggy und Marco Lachmann-Anke from Pixabay* 
 
 <!--
-../images/1199px-Gabal_El-Zayt_Wind_farm.png
+/images/1199px-Gabal_El-Zayt_Wind_farm.png
 *(c) حُميد, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 -->
 
