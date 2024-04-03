@@ -2,20 +2,20 @@
 
 ::::{grid} 
 :::{grid-item}
-:columns: 9
- HeatHack is a group of community volunteers that helps churches and other community groups understand how to heat their buildings better.    We started in and around Edinburgh in Scotland with groups that were cold but had high gas bills.   We understand the things community groups find difficult because that's where we come from - we had to learn everything from scratch to do our work.  We have always combined a bit of technology for temperature monitoring with engineering and a lot of thinking about what people actually do when they are in buildings.   In 2010, it was just Jean Carletta and an engineer who saw her looking at the heating controls scratching their heads over some very complex problems in an Edinburgh church.  It took calling in a personal favour from a university engineering lecturer to understand one of the issues. HeatHack grew from there.
+:columns: 8
+ HeatHack is a group of community volunteers that helps churches and other community groups understand how to heat their buildings better.    We started in and around Edinburgh in Scotland with groups that were cold but had high gas bills.   We understand the things community groups find difficult because that's where we come from - we had to learn everything from scratch to do our work.  We have always combined a bit of technology for temperature monitoring with engineering and a lot of thinking about what people actually do when they are in buildings.   In 2010, it was just Jean Carletta and an engineer who saw her looking at the heating controls scratching their heads over some interesting problems in an Edinburgh church.  HeatHack grew from there.  Our prize find so far is one church-owned modern space that we're pretty sure had been heated 24/7 for 10 years accidentally.
  :::
 :::{grid-item}
-:columns: 3
+:columns: 4
 ```{image} /images/cartoon-of-me.png
    :alt: 
    :class: mb-1
-   :width: 252px 
+   :width: 300px 
    :align: left
 ```
 :::
 ::::
-Our current programme has been developed and is being run in conjunction with The Surefoot Effect, a Community Interest Company.  
+Our current programme has been developed and is being run in conjunction with The Surefoot Effect, a Community Interest Company.  It has been completed by around 35 groups from across the UK with secular and sacred buildings from all eras, although how to think about Victorian buildings with low occupancy, high ceilings, leaky windows, and old heating systems is still something of a speciality for us. 
 
 <!-- :TODO: make image links go to their website -->
 
@@ -42,7 +42,7 @@ Since 2012, Surefoot has been helping communities, businesses and governments pu
 :::
 ::::
 
-We also have support from Engineers without Borders UK to help find engineers for community groups who cannot find them for themselves.
+Engineers without Borders UK helps us find engineers for community groups who cannot find them for themselves.
 
 ::::{grid} 1 1 1 2
 :outline:
@@ -65,8 +65,7 @@ Engineers Without Borders UK is working to reach the tipping point to ensure a s
 :::
 ::::
 
-
-The programme would not be possible without the generous support of the Royal Academy of Engineering through their Ingenious public engagement programme. 
+This project was supported by the Royal Academy of Engineering under the Ingenious Awards programme. We are very grateful for their support!
 
 ::::{grid} 1 1 1 2
 :outline:
