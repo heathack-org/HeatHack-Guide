@@ -7,7 +7,7 @@ The engineer's role in the group is to guide you through the decisions that you 
 
 :::{grid-item}
 :columns: 3
-```{image} ../images/markus-spiske-QozzJpFZ2lg-unsplash.jpg
+```{image} /images/markus-spiske-QozzJpFZ2lg-unsplash.jpg
 :alt: 
 :class: mb-1
 :width: 300px

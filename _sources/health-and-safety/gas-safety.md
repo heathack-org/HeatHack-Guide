@@ -19,7 +19,7 @@ If you smell gas:
 :::{grid-item}
 :columns: 6
 
-```{image} ../images/gas-meter.jpg
+```{image} /images/gas-meter.jpg
 :alt: 
 :class: mb-1
 ```

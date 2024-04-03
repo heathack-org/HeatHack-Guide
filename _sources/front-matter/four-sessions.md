@@ -16,7 +16,7 @@ Each session has a different focus.  If you do HeatHack as four two-hour session
 :::
 :::{grid-item}
 :columns: 4
-```{image} ../images/ashrae-thermal-comfort.png
+```{image} /images/ashrae-thermal-comfort.png
 :alt: six elements of thermal comfort, namely, air temperature, radiant temperature, humidity, air speed, metabolic rate, and clothing level
 :class: mb-1
 ```
@@ -26,7 +26,7 @@ Each session has a different focus.  If you do HeatHack as four two-hour session
 
 :::{grid-item}
 :columns: 4
-```{image} ../images/card-sorting-2-cropped-to-be-unidentifiable.jpg 
+```{image} /images/card-sorting-2-cropped-to-be-unidentifiable.jpg 
 :alt: 
 :class: mb-1
 ```
@@ -51,7 +51,7 @@ Each session has a different focus.  If you do HeatHack as four two-hour session
 
 :::{grid-item}
 :columns: 3
-```{image} ../images/session3activity-thumb.png
+```{image} /images/session3activity-thumb.png
 :alt: 
 :class: mb-1
 :align: right
@@ -60,7 +60,7 @@ Each session has a different focus.  If you do HeatHack as four two-hour session
 
 :::{grid-item}
 :columns: 3
-```{image} ../images/group-work-2-768x793.jpg
+```{image} /images/group-work-2-768x793.jpg
 :alt: 
 :class: mb-1
 :align: right
@@ -76,7 +76,6 @@ Each session has a different focus.  If you do HeatHack as four two-hour session
 
 ::::
 
-There is also a version of HeatHack for two three-hour sessions.  It is similar but doesn't get as far in planning the community engagement.  It's important for groups doing HeatHack this way to make sure that aspect of the programme doesn't get lost as without it change doesn't happen, so these groups do discuss that.
 
 ```{admonition} Need more detail?
 

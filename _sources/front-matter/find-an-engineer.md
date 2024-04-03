@@ -30,7 +30,7 @@ If you can't find an engineer, please get in touch.  We may be able to help.
 :::
 :::{grid-item}
 :columns: 3
-```{image} ../images/idea-gcb37dbeb1_1280.png
+```{image} /images/idea-gcb37dbeb1_1280.png
 :alt: 
 :class: mb-1
 :width: 300px

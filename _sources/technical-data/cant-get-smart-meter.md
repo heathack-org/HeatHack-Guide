@@ -64,7 +64,7 @@ Meters can be hard to read properly, especially older ones. It's very important 
 :::
 :::{grid-item}
 :columns: 6
-```{image} ../images/clamp-on-meter.jpg
+```{image} /images/clamp-on-meter.jpg
 :alt: 
 :class:  mb-1
 ```

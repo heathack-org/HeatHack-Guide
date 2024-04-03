@@ -25,7 +25,7 @@ These are all signs that it is unsafe to approach your meter:
 :::{grid-item}
 :columns: 3
 
-```{image} ../images/electric-meter.jpg
+```{image} /images/electric-meter.jpg
 :alt: 
 :class:  mb-1
 

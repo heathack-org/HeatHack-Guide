@@ -17,7 +17,7 @@ Your organisation probably already thinks about health and safety in their publi
 :columns: 3
 
 
-```{image} ../images/7196331_4a2c0265_1024x1024.jpg
+```{image} /images/7196331_4a2c0265_1024x1024.jpg
 :alt: 
 :class: mb-1
 :width: 400px

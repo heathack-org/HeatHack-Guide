@@ -1,3 +1,4 @@
+(data-logging)=
 # Temperature and relative humidity readings
 
 

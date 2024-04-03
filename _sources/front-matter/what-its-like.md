@@ -20,7 +20,7 @@ Here are some of the questions you will think about during the sessions:
 
 :::{grid-item}
 :columns: 4
-```{image} ../images/card-sorting-2-cropped-to-be-unidentifiable.jpg
+```{image} /images/card-sorting-2-cropped-to-be-unidentifiable.jpg
 :alt: 
 :class: mb-1
 :width: 200px
