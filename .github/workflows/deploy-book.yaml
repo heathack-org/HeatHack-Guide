@@ -21,11 +21,11 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - uses: actions/checkout # was @v3
+    - uses: actions/checkout@v4 # was @v3
 
     # Install dependencies
     - name: Set up Python 3.11
-      uses: actions/setup-python # was @v4
+      uses: actions/setup-python@v5 # was @v4
       with:
         python-version: 3.11
 
@@ -50,11 +50,11 @@ jobs:
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
-      uses: actions/upload-pages-artifact # was @v2
+      uses: actions/upload-pages-artifact@v4 # was @v2
       with:
         path: "_build/html"
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages # was @v2
+      uses: actions/deploy-pages@v4 # was @v2
