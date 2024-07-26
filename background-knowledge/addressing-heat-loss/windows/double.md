@@ -8,4 +8,4 @@ For triple glazing to give you any benefit over double glazing, the walls have t
 
 <!-- example of just changing the glazing -->
 - [U-value calculations - table shows many glazing options (technical)](https://www.gov.scot/publications/tables-of-u-values-and-thermal-conductivity/)
-- [Retrofitting sash and case windows - for homeowners, but very useful for some community buildings](https://era.ed.ac.uk/handle/1842/41922)
+- [Retrofitting sash and case windows - for homeowners, but very useful for some community buildings](http://dx.doi.org/10.7488/era/4645)
