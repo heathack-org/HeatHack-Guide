@@ -11,7 +11,7 @@ Loft hatches, the locations of previous extractor fans, and gaps around pipework
 
 Some professionals can identify the most important areas to draughtproof using thermal imaging, but this takes training to do well.  Professionals also offer airtightness tests to find out whether your building in unexpectedly leaky, although this does not identify where the losses are.  It's possible to get a sense of the effects of obvious gaps by checking what they do to a smoke pen when the building is heated and there's gentle air movement outside. 
 
-Some draughtproofing can be done as a DIY job, but professionals have access to better skills and materials.  Window draughtproofing is particularly difficult, and expensive as a result.  For both windows and some doors, really good curtains can really help with the draughts.
+Some draughtproofing can be done as a DIY job, but professionals sometimes have access to better skills and materials.  Window draughtproofing is particularly difficult, and expensive as a result.  For windows and some doors, really good curtains or blinds can help with the draughts.
 
 - [](curtains)
 
@@ -26,3 +26,5 @@ Some draughtproofing can be done as a DIY job, but professionals have access to 
 - [Explanation of airtightness with a diagram of likely leaks (technical)](https://www.firstinarchitecture.co.uk/building-fabric-05-airtightness/)
 
 - [Smoke pen](https://www.amazon.co.uk/Arctic-Hayes-ARC333113-333113-Smoke-Sticks/dp/B009BUDDHM/)
+
+
