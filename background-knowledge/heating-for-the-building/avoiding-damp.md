@@ -23,6 +23,8 @@ Whatever you do, you need to avoid your building being damp.  Damp walls lose he
 
 - **Insufficient ventilation.** Many buildings have design features that are intended to be used to vent warm, moist air from the building. These might include windows or window vents that open manually and in church buildings, rope pulls for opening the louvres on a tower.  These supply fresh air to the occupants as required or, in some cases, are meant to be shut while a building warms up and when people are in, and only opened when they leave until the next time the heating comes on.  Extractor fans can also be useful for venting moist air.
 
+
+
 <!-- :TODO: picture of trickle vent on modern window and some church windows and vents meant to be opened after services -->
 
 In traditional buildings:
@@ -30,8 +32,10 @@ In traditional buildings:
 - **Non-breatheable finishes.** Traditional stone buildings require lime plaster and breatheable paints.  Using non-breatheable finishes can cause mysterious damp problems.  Many stone buildings have been pointed in cement, which traps damp in the stone.  Sometimes workers will claim to use the right materials but still do the wrong thing.  For instance, we've heard of one mixing lime mortar with PVA glue to point the stonework because it makes it easier to apply.
 
 - **Inappropriate or incorrectly installed insulation.** Again, materials should be breatheable and the design also has to allow airflow in the correct places, for instance, with loft insulation laid on the floor of a loft, at the eaves to ensure the space and materials above the insulation stay dry.  
+
+- **Re-harling rubble buildings.** If you have a building where the outside surface is rubble - not just one with rubble infill between dressed stone (ashlar) - Historic Environment Scotland tells us it would have been harled originally, and re-harling it is the best step you can take for making it warmer.  Don't forget you still need to use breatheable materials.
  
-If your building is damp, dehumidifiers will dry it out more cheaply than turning the heating on. You can focus them just on the damp area.  But you still need to fix the problem.
+If your building is damp, dehumidifiers will dry it out more cheaply than turning the heating on. You can focus them just on the damp area.  You still need to fix whatever caused the building to be damp in the first place.
 
 
 ```{admonition} Advice for churches
