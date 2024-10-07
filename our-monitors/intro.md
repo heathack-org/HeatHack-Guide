@@ -18,7 +18,7 @@
 :::{grid-item}
 :columns: 6
 
-Our thermal monitors are built cheaply from electronic parts by volunteers and offered on that basis.  You can keep the monitor for as long as you find it useful.  If you don't want it any more, or if it isn't working, we'd be grateful if you would send it back to us so we can reuse it.  
+Our thermal monitors are built cheaply from electronic parts by volunteers and offered on that basis.  You can keep the monitor for as long as you find it useful.  If you don't want it any more, or if it isn't working, we'd be grateful if you would send it back to us so we can update the software and reuse it.  
 
 :::
 ::::

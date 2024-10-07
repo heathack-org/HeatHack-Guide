@@ -7,9 +7,9 @@
 :gutter: 2
 
 :::{grid-item}
-:columns: 3
+:columns: 12
 
-<iframe width="210" height="157"
+<iframe width="420" height="364"
 src="https://www.youtube.com/embed/dBEl7wL_xAA">
 </iframe>
 
@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/dBEl7wL_xAA">
 :::
 
 :::{grid-item}
-:columns: 9
+:columns: 12
 This is a cooperative game.  No one wins, but we're told it's fun.  Here's a quick reminder of how to run it:
 
 Sit around a big table.  On one side, you'll need four labelled areas.

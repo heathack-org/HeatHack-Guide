@@ -6,9 +6,7 @@
 
 Welcome to the HeatHack programme for UK community building operators.  This is the "Guide Book" for participating venues.  It explains the programme and provides links to all publicly available materials for it. 
 
-We are always learning from our venues doing our best to respond to their needs.  Please tell us what we should add.  
-
-This project was supported by the Royal Academy of Engineering under the Ingenious Awards programme. We are grateful for their support.
+We are always learning from our venues doing our best to respond to their needs.  Please tell us what we should add.  You can help us by telling us how we benefit you - we need to know this to convince anyone we are worth funding.
 
 :::
 :::{grid-item}
@@ -17,7 +15,17 @@ This project was supported by the Royal Academy of Engineering under the Ingenio
 <iframe width="315" height="240"
 src="https://www.youtube.com/embed/P1Lu8RFfii0">
 </iframe>
+:::
 ::::
+
+We developed this programme with support from the Royal Academy of Engineering Ingenious programme. We are very grateful to them.
+
+Anyone can use our materials to run the programme (or any way they like as long as they share any improvements!) and we are often able to support groups in some way.  We may at times have to charge for card games and thermal monitors.  We are working hard on getting new support projects up and running, and establishing links with more partners who can provide further support.
+
+```{admonition} Heating Controls Mini-programme
+
+Some groups who know they will be using their current fossil fuel boilers for at least another three years want to do a mini-HeatHack first just to make sure they aren't wasting fuel through poor heating control, and then move on to the full programme.  Please bear with us as we develop this.  We are currently working with 5 Glasgow listed buildings, thanks to funding from the Glasgow City Heritage Trust, but will again make everything openly available on line.  Meanwhile, for you, the thermal monitoring, board game especially the second time through, and the guide section on energy efficiency for commumity buildings make a good start.
+```
 
 ::::::{grid} 
 :outline:
@@ -37,7 +45,8 @@ The workshops are based on our programme, and you will use this Guide Book for r
 :::::{grid-item}
 :columns: 3
 
-<iframe width="210" height="157"
+<!-- width="210" height="157" -->
+<iframe width="180" 
 src="https://www.youtube.com/embed/OkUaYvjk3ls">
 </iframe>
 :::::
