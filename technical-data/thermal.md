@@ -22,10 +22,13 @@ Relative humidity readings are also useful if you have any concerns about damp o
 :align: center
 ```
 
-There are USB sticks that save the data for you.  This one comes with free Windows sofware.  There may be cheaper options but we haven't tried them.  
+There are USB sticks that save the data for you.  This one comes with free Windows sofware.  You tell them when to start recording data and how often, and then when you come back to pick up the data, you can download it for use in Excel or similar, or use the plotting software provided.
 
 - [Lascar temperature only](https://www.lascarelectronics.com/easylog-el-usb-1)  
 - [Lascar with RH](https://www.lascarelectronics.com/easylog-el-usb-2)
+- [Lascar Easylog USB software](https://lascarelectronics.com/software/easylog-software/easylog-usb/)
+
+There may be cheaper options but we haven't tried them.  
 :::
 
 :::{grid-item-card} Using an app on a phone or tablet
@@ -36,13 +39,16 @@ There are USB sticks that save the data for you.  This one comes with free Windo
 :align: center
 ```
 
-We are only aware of one suitable model, the Thermopro TP357s, but there are probably others.  You use an app to retrieve the data over a Bluetooth connection.  
+We are only aware of one suitable model, the Thermopro TP357s, but there are probably others.  You use the Thermopro sensor app to pair it with a phone using Bluetooth and then you can export the data to a file for Excel or similar.  You can pair more than one but use stickers to label them and then turn them on one at a time and change the names so you can tell them apart. 
 
-- [Thermopro TP357s](https://www.amazon.co.uk/dp/B093PT1NL1?ref=myi_title_dp&th=1)
+- [Thermopro TP357s, labelled as TP357](https://www.amazon.co.uk/dp/B093PT1NL1?ref=myi_title_dp&th=1)
+- [Thermopro Sensor app](https://buythermopro.com/thermometer-apps-remote-monitoring/)
+
+We don't know how long the batteries will last, but if the battery dies and you put a new one in, the data will still be there.  You can use the same phone with more than one Thermopro.  If you want to avoid Amazon, make sure you get the TP357s, not stock from before February 2024. The Thermopro chat advisers are very helpful.
 :::
 ::::
 
-The Thermopro is intended to be used for live monitoring of, say, a nursery at home, but it stores some data on the sensor unit itself to cover when the phone is out of range.  Thermopro says that if the battery dies, the data collected before that will still be found on the unit if you insert a new battery.  You can use the same phone with more than one Thermopro.Since February 2024, the sensor unit allows the data to be exported and emailed to someone.  Amazon is out of the old stock but we're less sure about other vendors.  If you want to avoid Amazon, ask the Thermopro chat advisor about your options. We know they're available on Ali Express, but we aren't sure where else.
+
 
 
 **Venues with wifi**
@@ -68,12 +74,12 @@ We are always on the look out for new options coming on the market, but they usu
 ```
 :::
 :::{grid-item}  
-Meanwhile, we have electronics volunteers make up suitable monitors from parts.  Although there is an option to use them without wifi, it's more difficult than using the Thermopro, so we now prioritize building for buildings with wifi.  
+Meanwhile, we have electronics volunteers make up suitable monitors from parts.  Although there is an option to use them without wifi, it's more difficult than using the Thermopro, so we now advise you to use those instead.
 
 :::
 ::::
 
-Setting them up with your wifi details is a pain but we now ship them with your wifi details pre-loaded.  It costs us about £10 to make and post them out, and at the moment we're paying around £300 a year for service that gets the data to the internet.   We're OK for now, but we may need to find a way to cover these costs.
+Setting them up with your wifi details is a pain but we now ship them with your wifi details pre-loaded.  It costs us about £10 to make and post them out, and at the moment we're paying around £300 a year for service that gets the data to the internet for all our venues.   We're OK for now, but we may need to find a way to cover these costs.
 
 ```{admonition} Tip
 :class: tip
