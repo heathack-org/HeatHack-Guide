@@ -24,7 +24,10 @@ Anyone can use our materials to run the programme (or any way they like as long 
 
 ```{admonition} Heating Controls Mini-programme
 
-Some groups who know they will be using their current fossil fuel boilers for at least another three years want to do a mini-HeatHack first just to make sure they aren't wasting fuel through poor heating control, and then move on to the full programme.  Please bear with us as we develop this.  We are currently working with 5 Glasgow listed buildings, thanks to funding from the Glasgow City Heritage Trust, but will again make everything openly available on line.  Meanwhile, for you, the thermal monitoring, board game especially the second time through, and the guide section on energy efficiency for commumity buildings make a good start.
+Some groups who know they will be using their current fossil fuel boilers for at least another three years want to do a mini-HeatHack first just to make sure they aren't wasting fuel through poor heating control, and then move on to the full programme.  Please bear with us as we develop this.  We are currently working with 5 Glasgow listed buildings, thanks to funding from the Glasgow City Heritage Trust, but will again make everything openly available on line.  Meanwhile, you would probably find thermal monitoring useful for understanding when the heating is on as this is often surprising.  You can use our instructions for the board game the second time through to think about what your users do to make themselves comfortable.  This guide contains information on energy efficiency and heating controls that makes a good start and is enough for many groups to make a good start.  
+
+- [Energy Efficiency for Community Buildings](practical-reading)
+
 ```
 
 ::::::{grid} 
