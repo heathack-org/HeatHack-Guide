@@ -201,6 +201,8 @@ flycheck_*.el
 # stuff just for us
 ## local book build 
 _build/
+## output from processing we do on local machines
+card-game/aux/output
 
 # space for notes about what's still to write, no need to share
 notes.txt
