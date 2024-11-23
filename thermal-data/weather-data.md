@@ -4,9 +4,16 @@ It matters what the weather conditions were like outside when you took your temp
 
 - [Simple display from "Time and Date"](https://www.timeanddate.com/weather/@2648147/historic)
 
-Engineers and professionals may wish to plot internal against hourly external temperature, or use daily data to conduct a formal analysis of your heating controls and building's heat loss.  They use weather data more like this.   
+```{admonition} Up for more formal analysis?
+:class: tip
+
+Engineers and people who like spreadsheets may wish to plot internal against hourly external temperature.  They use weather data more like this.   
 
 - [Hourly data to download from Meteostat](https://meteostat.net/en/)
 - [Data from visualcrossing for formal analysis](https://www.visualcrossing.com/)
 
+For the adventurous, there is a useful website for understanding and calculating degree days so that you know much heating or cooling was needed over a given period.
+
+- [Degree Days from BizEE Software](https://www.degreedays.net/)
+```
 
