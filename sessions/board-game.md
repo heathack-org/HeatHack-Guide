@@ -66,8 +66,9 @@ Group members often fail to be imaginative and ambitious about building changes,
 
 ```{admonition} Game tips
 :class: tip
-- The floorplan can be simple and sketchy.  This helps the group be playful.  If you bring paper, scissors, and marker pens, you can ask group members to add features and make props as you go along that help you tell the story.
-
+- You might already have a floorplan, such as an architectural diagram or as part of a fire evacuation plan.  If you are a church, check your quinquennial report for one.   
+- The floorplan can be simple and sketchy.  This helps the group be playful.  
+- If you bring paper, blutak, scissors, and marker pens, you can ask group members to add features and make props as you go along that help you tell the story.  Some groups reconfiguring their spaces use Lego.
 - It helps to write the questions large where people can see them.
 
 ```
