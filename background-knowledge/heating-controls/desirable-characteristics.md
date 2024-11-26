@@ -35,3 +35,5 @@ Because choosing controls is complicated, we've tried to bring together a list o
 
 - **Technical energy efficiency features.** Try to find controls with whichever combination of optimised start control, weather compensation, or load compensation is right for your boiler and how you use the building.  
 
+- **Calendar integration.** Some heating controls with internet connections can take diary entries straight from your main calendar and use them to control the heating.  If you consider this, be careful about how entries get recorded in the calendar as it's common to block out much longer periods of time than the building is occupied.
+
