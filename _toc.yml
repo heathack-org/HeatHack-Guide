@@ -46,6 +46,7 @@ chapters:
       sections:
       - file: thermal-data/where-to-put-monitor
       - file: thermal-data/weather-data
+    - file: technical-data/thermal-imaging
 
 - file: leadership/intro
   sections: 
