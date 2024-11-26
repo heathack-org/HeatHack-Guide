@@ -21,6 +21,13 @@ There are several possible reasons for  this.
 We look forward to our volunteer engineers helping us improve our thinking here, as increasingly, clusters of HeatHack venues are passing larger sets of thermal monitors around their spaces.
 
 
+'''{admonition} Be careful
+:class: warning
+
+If you decide manual balancing is called for, don't do it yourself, especially if you have older radiators or lockshield valves that aren't in a good state.  You want a company to do it, with responsibilty for ensuring the valve doesn't leak after it's been adjusted an insurance to cover if they do create a problem.
+
+```
+
 ```{admonition} More information
 
 - [Video about balancing a system and auto-balancing](https://www.youtube.com/watch?v=AhVoT55lhSw&authuser=0)
