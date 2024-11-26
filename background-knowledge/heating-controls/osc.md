@@ -13,7 +13,7 @@ Many community buildings have boilers that are at or near "end of life" and this
 
 ```
 
-Unfortunately, different manufacturers use different names for the feature.   Proper optimisation is common in modern "smart" controls, and there have been optimising controls for decades now, so it also offered in some traditional systems.  Some common controls have optimisation but it is turned off by default.  For safety, there will be a hard limit to how many hours ahead the system is allowed to come on, and on some models it will be too short for our buildings.  If necessary, it's possible to program building warmup in stages to get around the limit, but it's easier and more efficient if you can find a model where the limit is high enough for winter conditions in your venue.
+Unfortunately, different manufacturers use different names for the feature.  For instance, Google Nest calls it "Early On".   Proper optimisation is common in modern "smart" controls, and there have been optimising controls for decades now, so it also offered in some traditional systems.  Some common controls have optimisation but it is turned off by default.  For safety, there will be a hard limit to how many hours ahead the system is allowed to come on, and on some models it will be too short for our buildings.  If necessary, it's possible to program building warmup in stages to get around the limit, but it's easier and more efficient if you can find a model where the limit is high enough for winter conditions in your venue.
 
 Very occasionally there are models that have a similar sounding feature, but really just have you select a constant amount of warm-up time to use, so read the documentation carefully on your shortlisted models.
 
@@ -31,4 +31,3 @@ We give examples of controls, but don't assume they will be suitable for your bu
 - [Drayton control with optimised start and stop modes](https://wiser.draytoncontrols.co.uk/smart-modes)
 - [Warmworld control with optimised start and a lock to limit what users can do](https://www.warmworld.co.uk/)
 
-```
