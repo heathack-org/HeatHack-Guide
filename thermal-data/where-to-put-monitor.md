@@ -10,16 +10,22 @@ Ideally, you will get one or two weeks of data when it is relatively cold out in
 
 When you decide where to put the thermal monitor or data logger, it should be:
 
-- a place with strong enough wifi signal, as this is often the problem if it doesn't work
 - somewhere representative of what people will feel
 - not in a corner or anywhere else with poor airflow
 - not in direct sun or influenced by a heating source like a radiator
 - not very close to a very cold wall (for instance, external stone walls) or on a windowsill
 - not on a hot thing (like some light fittings)
 - preferably not close enough to an actual person to be influenced by their body heat
-- not where it will be hit by footballs, thrown around by children, and so on.
+- not where it will be hit by footballs, thrown around by children, and so on
+- if it relies on the wifi network, where the signal is strong enough
 
 These are the same rules as for thermostats, and sometimes next to the thermostat is a good choice, although some of them can be very badly sited!  
+
+```{admonition} Wifi strength
+:class: tip
+
+If you aren't sure whether the wifi is a problem, try the monitor right next to the router.  Then you'll be sure the signal is strong.  If it's working there, then the problem is likely to be the signal strength where you want to place it.  The monitor flashes 10 times in a row when it makes a successful connection, but it can be hard to see this on some monitors.
+```
 
 In many spaces, you have to compromise on the location.  That's OK!  Temperature and RH never tell the full story about thermal comfort in a space.  You'll still get to understand whether the heating is on at the right times and have an idea about warmer and colder that you can tally against your own experience of the building.
 

@@ -18,7 +18,7 @@
 :::{grid-item}
 :columns: 6
 
-Our thermal monitors are built cheaply from electronic parts by volunteers and offered on that basis.  You can keep the monitor for as long as you find it useful but we might need to charge for the web connection after July 2025.  If you don't want it any more, or if it isn't working, we'd be grateful if you would send it back to us so we can update the software and reuse it.  
+**Our thermal monitors are built cheaply from electronic parts by volunteers and offered on that basis.**  We are reviewing our use of them but if we continue to offer them after July 2025, we might need to charge for the web connection.  If you don't want a monitor any more, or if it isn't working, we'd be grateful if you would send it back to us so we can update the software and reuse it.  
 
 :::
 ::::
@@ -32,6 +32,10 @@ For sites without good wifi that covers everywhere you might want to take measur
 - [Details about commercial options](data-logging)
 
 You only need these instructions if you have one of our monitors and need to change the wifi network details.  
+
+You do still need to read our instructions about good places to put the monitor.
+
+- [Where to put your monitor](monitor-placement)
 ```
 
 Before you start, you must decide which mode to use for your thermal monitor.
