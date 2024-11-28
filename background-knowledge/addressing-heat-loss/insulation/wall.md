@@ -4,12 +4,16 @@
 
 Wall insulation can be outside, inside, or in a cavity within the wall.  If you can insulate externally, that’s usually the most effective solution.  With traditional mass masonry walls, you need the insulation to be breathable and there are more options than you might think.  You could have cellulose pellets blown behind the lathe and plaster, insulation applied to the existing masonry, plaster, or wall linings, or a timber frame that holds insulation in place, making a big space a bit smaller. 
 
-In a stone building, if you have internal wall insulation, keep in mind that it will no longer behave like it's made of stone - you won't be able to use the stone as a store of heat.  If you intend to install a heat pump running 24/7, it may be hard to determine whether it's worth insulating the walls internally.   We expect the thinking about stone to develop over the next few years.  There is a recognition already that current Energy Performance Certificates are unduly harsh for stone.  
+In a stone building, if you have internal wall insulation, keep in mind that it will no longer behave like it's made of stone - you won't be able to use the stone as a store of heat.  If you intend to install a heat pump running 24/7, it may be hard to determine whether it's worth insulating the walls internally.   We expect the thinking about stone to develop over the next few years. 
+
+If you have existing wall insulation, unfortunately, it might be patchy - some installers haven't done a very good job with it.  It's possible to check using a thermal imaging camera, keeping our caveats in mind.  
+
+-[Caveats about thermal imaging](thermal-imaging)
 
 
 ```{admonition} A quick fix - radiator foil
 
-If your building doesn't have insulated walls, you can consider at least reflecting the heat from radiators away from cold external walls and into the room.  There are products you can mount behind these radiators with foil on one side and insulation on the other.  They help by reflecting the heat back into the room.  
+If your building doesn't have insulated walls, you can consider at least reflecting the heat from radiators away from cold external walls and into the room.  There are products you can mount behind these radiators with foil on one side and insulation on the other.   
 
 - [Radiator Reflector Panels](https://heatkeeper.co.uk/products/heatkeeper-radiator-reflector-panels)
 

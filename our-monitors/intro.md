@@ -18,14 +18,20 @@
 :::{grid-item}
 :columns: 6
 
-Our thermal monitors are built cheaply from electronic parts by volunteers and offered on that basis.  You can keep the monitor for as long as you find it useful.  If you don't want it any more, or if it isn't working, we'd be grateful if you would send it back to us so we can update the software and reuse it.  
+Our thermal monitors are built cheaply from electronic parts by volunteers and offered on that basis.  You can keep the monitor for as long as you find it useful but we might need to charge for the web connection after July 2025.  If you don't want it any more, or if it isn't working, we'd be grateful if you would send it back to us so we can update the software and reuse it.  
 
 :::
 ::::
 
 ```{admonition} Do I need to read this?
 
-For sites that have good wifi, we now ship the monitors with the wifi details already on them, so all they have to do is turn them on.  For sites without, we either supply or advise them to buy a commercial data logger, usually a Thermopro 357s or a Lascar EasyLog device.  You only need these instructions if you have one of our monitors and need to change the wifi network details or use it without wifi.
+For sites that have good wifi, we now ship the monitors with the wifi details already on them, so all you have to do is insert 3 alkaline or rechargeable NiMH batteries and turn them on.  Do tell us when you do this so we can check whether the data is coming in OK.  
+
+For sites without good wifi that covers everywhere you might want to take measurements, we either advise them to buy a commercial data logger or loan them one, usually a Thermopro 357s or a Lascar EasyLog device.  
+
+- [Details about commercial options](data-logging)
+
+You only need these instructions if you have one of our monitors and need to change the wifi network details.  
 ```
 
 Before you start, you must decide which mode to use for your thermal monitor.

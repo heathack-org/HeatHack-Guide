@@ -1,3 +1,4 @@
+(thermal-imaging)=
 # What about thermal imaging?
 
 ::::{grid} 

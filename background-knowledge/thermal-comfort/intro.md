@@ -18,11 +18,7 @@ The other things that matter are:
 - **Draughts.** Even a warm draught feels cold.  Women tend to feel draughts more keenly than men do.  
 
 - **Relative humidity.** This is the amount of moisture the air has compared to the total amount of moisture it can hold, which varies with the temperature of the air.  The warmer the air is, the more moisture it can hold.  Relative humidity has a range from 0-100%.  When it reaches 100%, moisture falls out of the air.  The damper a building is, the colder it will feel.
-
-- **How active the occupants are (metabolic rate).**  If people are running around, they will be comfortable at lower temperatures.  
-
-- **Clothing levels.** Up to a point, more layers of clothing and materials like wool that trap air will also make people comfortable at a lower temperature.  
-
+ 
 
 :::
 :::{grid-item}
@@ -35,12 +31,13 @@ The other things that matter are:
 :::
 ::::
 
+- **How active the occupants are.**  If people are running around, they will be comfortable at lower temperatures.  This can make it hard to please people who are active in coming to your venue and then sit still for a while - they might think the temperature is dropping even if it's steady. 
 
-
+- **Clothing levels.** Up to a point, more layers of clothing and materials like wool that trap air will also make people comfortable at a lower temperature. 
 
 ```{admonition} Top Comfort Tip
 
-One of the most important things you can do is ensure consistent, non-draughty conditions so your building's users know how much clothing to bring and don't have to keep changing it while they are in the venue.  People are very adaptable as long as they can predict what they need to do.  That makes having the right heating controls very important.  
+One of the most important things you can do is ensure consistent, non-draughty conditions so your building's users know how much clothing to bring and don't have to keep changing it while they are in the venue.  People are very adaptable as long as they can predict what they need to do.  They feel uncomfortable if the temperature varies by more than 2C while they are in your space.  That makes having the right heating controls very important.  
 
 
 ```
