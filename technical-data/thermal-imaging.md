@@ -4,9 +4,11 @@
 ::::{grid} 
 :::{grid-item}
 :columns: 9
-Thermal imaging is a popular idea and it is often possible to borrow a thermal imaging cameras from the local Council, the library, or a local tools library if your area has one. They can be useful, but we have some reservations about their use, and don't include them in our programme.  The pictures are a compelling way of changing hearts and minds, but without training, it's hard to get useful technical results from them.  
+Thermal imaging is a popular idea and it is often possible to borrow a thermal imaging cameras from the local Council, the library, or a local tools library if your area has one. They can be useful, but we have some reservations about their use, and don't include them in our programme.  The pictures are a compelling way of changing hearts and minds, but without training, it's hard to get useful technical results from them.   
 
-Thermal imagers sense the infrared radiation coming from the surface and translate that into surface temperatures. Those temperatures are then mapped onto a set of colours from “cold” to “hot” to make it easier to for people to understand the data.  
+
+Thermal imagers sense the infrared radiation coming from a surface and translate that into surface temperatures. Those temperatures are then mapped onto a set of colours from “cold” to “hot” to make it easier to for people to understand the data.  Not all thermal imaging cameras are useful for buildings.
+
 :::
 
 :::{grid-item}
@@ -27,14 +29,14 @@ Thermal imagers sense the infrared radiation coming from the surface and transla
 
 
 
-The first problem is simply that materials differ in how efficiently they emit infrared thermal radiation, so stone, metal, and glass could all be at exactly the same temperature, but they will show up as different ones to the camera. Cameras will let you set the emissivity of the material you are imaging so you get the right temperature back, but it’s the same value for the entire image. That’s fine if you point it at a uniform bit of wall, but not if you want to capture the facade of a building that has a mix of materials with very different emissivities. With care, it is possible to interpret the data technically, but it’s not as easy as point and click.
+The first problem is simply that materials differ in how they emit, reflect, and transfer infrared radiation, so stone, metal, and glass could all be at exactly the same temperature, but they will show up as different ones to the camera. That’s fine if you point it at a uniform bit of wall, but less good for complex areas.  Most building materials are similar, but you need to get the camera settings right and be aware that shiny or metallic surfaces won't give accurate results and of how furnishings and corners affect readings. 
 
-The second problem is that the angle at which the image is taken will also affect the readings. Ideally they should be taken straight on, i.e., from the same height as the subject. This can make comparing readings in two different images tricky in practice, or even interpreting one image of a complex shape. Typically the screen is at a slight angle to the actual camera, making it difficult to take images straight on. In addition readings will be affected by the distance to the subject, light sources, and even the relative humidity when the image is taken.
+The second problem is that the results depend on the ambient conditions - ideally, you want a 15C difference between indoors and outdoors, limiting what months you can usefully take images.  Damp air or surfaces and wind both change the picture, and sun or air temperature swings can affect the readings for a surprisingly long time.  
 
 
-The third problem is just one of how the cameras tend to be used. By default, the camera will maximise the colour range in the image, so red doesn’t always mean the same thing if you take more than one image. Usually people forget to record what the colour scale actually means in each picture, and on some cameras it’s actually hard to find out. Some of them do let you set a constant colour range that won’t change between pictures, but you still have to remember to record what that was.
+The third problem is just one of how the cameras tend to be used. By default, cameras will vary the colours they show based on the range of temperatures it reads.   That means red doesn’t always mean the same thing.  Understanding heat loss in a buildings takes good record-keeping and a well-thought out process.
 
-This doesn’t make the cameras useless. If a temperature difference is large, you will see it, and with training, it is possible to draw reasonable conclusions about heat loss and problem areas with water ingress from more complex images. It takes less skill to do things like finding pipe runs and checking whether hidden insulation behind a uniform surface is patchy.  In some areas, there are trained volunteer groups willing to do heat surveys for you.
+This doesn’t make the cameras useless, but it's not point and click. In some areas, there are trained volunteer groups willing to do heat loss surveys for you. It takes less skill to do things like find hidden pipe runs and check whether the insulation behind a uniform surface is patchy. 
 
 ```{admonition} More information
 - [Thermal imaging in the Historic Environment (technical)](https://www.historicenvironment.scot/archives-and-research/publications/publication/?publicationId=088dab34-1194-43e6-af5e-a62801090992)
