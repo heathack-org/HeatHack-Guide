@@ -2,6 +2,8 @@
 
 Apart from the wildcard, the cards come in five steps.  Although during the game you should mix the steps up, sustainability experts recommend doing the steps in order when you carry out your plan.  For instance, any changes that address heat loss in a building usually come before specifying a new decarbonised heating system, because the heating system can then be smaller and more efficient. 
 
+The order of the steps is not set in stone, and certainly don't need to do every suitable action in one step before the next!  Your plan can take advantage of the grants that are available and other work that is happening in your building.  We have the steps on the cards so that groups don't forget to consider the full range of options.
+
 
 ::::{grid} 2
 :gutter: 2
