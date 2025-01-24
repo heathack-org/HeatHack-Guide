@@ -4,9 +4,11 @@
 :::{grid-item}
 :columns: 6
 
-Welcome to the HeatHack programme for UK community building operators.  This is the "Guide Book" for participating venues.  It explains the programme and provides links to all publicly available materials for it. 
+Welcome to the HeatHack programme for UK community building operators.  This is the "Guide Book" for participating venues.  It explains the programme and provides links to all publicly available materials for it.  We developed this programme with support from the Royal Academy of Engineering Ingenious programme. We are very grateful to them.
 
-We are always learning from our venues doing our best to respond to their needs.  Please tell us what we should add.  You can help us by telling us how we benefit you - we need to know this to convince anyone we are worth funding.
+We haven't put these materials behind a password or paywall because we know barriers put people off.  Anyone can use our materials to run the programme - or any way they like as long as they credit us and share any improvements!  We ask in return that if you use what we provide, you register with us.  Otherwise it's hard for us to attract the funding we need to serve you better.  
+
+- [Register with us](https://docs.google.com/forms/d/e/1FAIpQLSeWTFzZ4aeC2aI87go2bGpZGaPZMJkseS0lhXhjRAQLVk7v8w/viewform?usp=header)
 
 :::
 :::{grid-item}
@@ -18,9 +20,8 @@ src="https://www.youtube.com/embed/P1Lu8RFfii0">
 :::
 ::::
 
-We developed this programme with support from the Royal Academy of Engineering Ingenious programme. We are very grateful to them.
 
-Anyone can use our materials to run the programme (or any way they like as long as they share any improvements!) and we are often able to support groups in some way.  We may at times have to charge for card games and thermal monitors.  We are working hard on getting new support projects up and running, and establishing links with more partners who can provide further support.
+
 
 ```{admonition} Heating Controls Mini-programme
 

@@ -23,10 +23,10 @@ Usually groups want some kind of support.  We are working towards a sustainable 
 
 ```{admonition} Free support for those signing up by September 2024
 
-Although we do not currently have a grant to provide support, thanks to past trading income, donations, and our dedicated volunteers, at the moment we are still able to offer support to non-profit community groups who either own are allowed to make changes to their buildings.  If you apply by September 2024 and can show us that you have a group, permission from your board, and session dates chosen, then we will send you a thermal monitor and card pack and answer any questions you have while running the programme.
+Although we do not currently have a grant to provide support, thanks to past trading income, donations, and our dedicated volunteers, at the moment we are still able to offer support to non-profit community groups who either own are allowed to make changes to their buildings.  If you apply by September 2024 and can show us that you have a group, permission from your board, and session dates chosen, then we will send you a thermal monitor and card pack and answer any questions you have while running the programme.  Beyond this date, please ask what we can provide for you.
 ```
 
-To get the best experience you are likely to want some kind of thermal monitor, physical cards, and minor stationery items.  Here are our estimates what this costs if you "do it yourself" and what it costs us to provide this support.  
+To get the best experience you are likely to want some kind of thermal monitor, physical cards, and minor stationery items.  Here are our estimates what this costs if you "do it yourself" and what it costs us to provide this support.  Where we can demonstrate community need high enough to attract funders, we hope they will bear some of these costs.
 
 ::::::{grid} 
 :outline:
@@ -68,7 +68,7 @@ Electronics volunteers currently build thermal monitors from parts to our own de
 :outline:
 :child-direction: row
 :child-align: center
-**Physical card game**
+**Card game and hand-outs**
 :::::
 :::::{grid-item}
 :columns: 6
@@ -77,7 +77,7 @@ Electronics volunteers currently build thermal monitors from parts to our own de
 People engage much better with the action card game if they have physical cards.  You can print your own on normal paper for around £3.50, but they won't hold up well to handling.
 
 
-- [Files for printing your own](https://drive.google.com/drive/folders/13efGHuvEN5zjEnxEG1RfoJ39EvKoDLig)
+- [Files for printing your own](https://drive.google.com/drive/folders/1pmTSPJyqTUHWo4CLdyGowrTM5hMLyS4-?usp=drive_link)
 :::::
 :::::{grid-item}
 :columns: 6
@@ -97,13 +97,13 @@ People engage much better with the action card game if they have physical cards.
 :columns: 6
 :outline:
 
-None provided; the group has access to the materials.  When groups identify issues with them, we fix them as quickly as we can.
+None guaranteed beyond the Guide Book and other materials.  We have videos of past on-line training sessions we can make available to group leaders and engineers upon request. When groups identify issues with the materials, we fix them as quickly as we can.  Where group leaders or engineers want a phone call to ask any questions before they start their sessions, we try to do this on a volunteer basis, but appreciate donations.
 :::::
 :::::{grid-item}
 :columns: 6
 :outline:
 
-This is hard to quantify as there are too many options.  We are currently working this out by thinking of it in terms of an hourly rate and any travel costs.  
+Tell us what you need.  We would cost this in terms of an hourly rate together with any travel costs.  
 
 - [Training options](training)
 
