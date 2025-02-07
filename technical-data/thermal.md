@@ -55,13 +55,13 @@ We don't know how long the batteries will last, but if the battery dies and you 
 
 
 
-You can use the options above, but it is very convenient to have one that can use your building's wifi to make the data appear on a website.  Lascar does one like this, but it's relatively expensive.
+It is very convenient to have a that can use your building's wifi to make the data appear on a website, although it can mean you forget to ever look at the readings.
 
+Here's an example or a commercial thermal monitor and web service - there are others:
 
 - [Lascar Easylog USB - temperature plus RH with an internet connection and cloud data storage](https://lascarelectronics.com/data-loggers/temperature-humidity/el-wifi-th/)
 
-We are always on the look out for new options coming on the market, but they usually assume you want the data instantly, so they either require an electrical socket or assume an additional device that does.  This doesn't work very well in public spaces.  They just get unplugged. 
-
+There is at least one new company, Cheribim, that aims to help churches with monitoring as part of general building management support.  
 
 ::::{grid} 
 
@@ -74,12 +74,13 @@ We are always on the look out for new options coming on the market, but they usu
 ```
 :::
 :::{grid-item}  
-Meanwhile, we have electronics volunteers make up suitable monitors from parts.  Although there is an option to use them without wifi, it's more difficult than using the Thermopro, so we now advise you to use those instead.
 
+We are always on the look out for new options coming on the market, but they usually assume you want the data instantly, so they either require an electrical socket or assume an additional device that does.  This doesn't work very well in public spaces.  They just get unplugged.  Meanwhile, there are electronics volunteers who are happy to make up monitors designed for our needs from parts. 
 :::
 ::::
 
-Setting them up with your wifi details is a pain but we now ship them with your wifi details pre-loaded.  It costs us about £10 to make and post them out, and at the moment we're paying around £300 a year for service that gets the data to the internet for all our venues.   We're OK for now, but we may need to find a way to cover these costs.
+They are not CE marked but the lead electronics volunteer tests them at home before sending them out. We do not sell them but we have been loaning them to organisations on this understanding.  Setting them up with your wifi details is a pain but we now ship them with your wifi details pre-loaded.  We are currently reviewing this as the new Thermopro is a cheap option that seems to work in practice for the organisations we serve and expect to make a decision about whether to stop loaning ours in the spring of 2025.  It costs us about £10 to make and post them out, and at the moment we're paying around £300 a year for service that gets the data to the internet for all our venues.  We don't face costs for getting even Thermopro data to the internet and putting the data into plots on-line, but only because we've been lucky to find software engineers and designers willing to do pro bono work.  We're OK for now, but if we do continue to use them we may need to find a way to cover these costs.
+
 
 ```{admonition} Tip
 :class: tip
