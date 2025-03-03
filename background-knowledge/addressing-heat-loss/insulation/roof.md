@@ -3,7 +3,11 @@
 
 As a very rough figure, 25% of the heat loss for an uninsulated building is through the roof. There are two basic designs:  a "cold roof" design, in which insulation is laid above the ceiling of the top floor, leaving loft space cold and ventilated, or a "warm roof" design, which places rigid boards between and over the roof rafters.  For buildings where you don't need the loft to be warm, cold roof designs save more energy because they are more effective and reduce the heated space. Loft insulation in a cold roof design can often be done as a DIY job as long as the loft space has adequate ventilation with no damp problems.  
 
-If there's nothing particularly nice about a roof that is otherwise not insulatable, installing a false ceiling could allow you to insulate above it. With some heritage buildings, the only option is to insulate when the roof needs replaced.  This is unfortunate and could make radiant heating or heated seating more attractive.  
+With a cold roof design, don't forget to insulate the loft hatch somehow.
+
+If there's nothing particularly nice about a roof that is otherwise not insulatable, installing a false ceiling could allow you to insulate above it. 
+
+With some heritage buildings, the only option is to insulate when the roof needs replaced.  This is unfortunate and could make radiant heating or heated seating more attractive.  
 
 As always, for traditional buildings, breatheability is important.
 
