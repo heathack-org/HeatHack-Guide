@@ -44,3 +44,8 @@ We can’t think of everything that might suit your circumstances.  For instanc
 :::::
 ::::::
 
+Sometimes good wildcard options are about making the building more suitable for the local community, not about energy efficiency - and that's OK!  Here are some things past groups have discussed:
+
+- putting in a commercial kitchen so that users can serve hot meals
+- adding a lift
+- adding a way of connecting an emergency generator to the building so that it can be used by the community during a power cut
