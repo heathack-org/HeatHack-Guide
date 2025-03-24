@@ -1,7 +1,7 @@
 (radiant)=
 # Radiant heating
 
-Radiant or "infrared" heating mostly heats the people by making the surfaces that surround them warmer.  It only has to be run while people are in the space, or in very cold spaces, with a short pre-heat to warm the furnishings and building surfaces before people enter.  If you run it for long enough, it will warm the air as well as a side effect of warming the surfaces.  Some models can be made to come on low if the temperature in the space drops low enough to be a problem for the building.
+Radiant heating mostly heats the people by making the surfaces that surround them warmer.  Infrared heating is one type, but there are other wavelengths that suit different spaces.  It only has to be run while people are in the space, sometimes with a short pre-heat to warm the furnishings and building surfaces before people enter.  If you run it for long enough, it will warm the air by side effect.  Some models can be made to come on low if the temperature in the space drops low enough to be a problem for the building.
 
 There are venues in frequent use that have radiant heating as their only heating, but we think its real strength is for venues that for some reason will remain in low occupancy or that really struggle with heat loss.  
 
