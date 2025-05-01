@@ -264,87 +264,87 @@ chapters:
     # solar panels
     - file: background-knowledge/solar-panels/intro
 
-- file: our-monitors/intro
-  sections:
-    - file: our-monitors/v4-in-internet-mode/intro
-      sections:
-        - file: our-monitors/v4-in-internet-mode/what-you-will-need
-        - file: our-monitors/v4-in-internet-mode/block-other-connections
-        - file: our-monitors/v4-in-internet-mode/turn-monitor-on
-        - file: our-monitors/v4-in-internet-mode/connect-to-monitor
-        - file: our-monitors/v4-in-internet-mode/troubleshooting
-        - file: our-monitors/v4-in-internet-mode/load-interface
-        - file: our-monitors/v4-in-internet-mode/set-the-mode
-        - file: our-monitors/v4-in-internet-mode/check-connection
-        - file: our-monitors/v4-in-internet-mode/what-internet-mode-does
-        - file: our-monitors/v4-in-internet-mode/accessing-data
-    - file: our-monitors/v4-in-save-mode/intro
-      sections:
-        - file: our-monitors/v4-in-save-mode/what-you-will-need
-        - file: our-monitors/v4-in-save-mode/block-other-connections
-        - file: our-monitors/v4-in-save-mode/turn-monitor-on
-        - file: our-monitors/v4-in-save-mode/connect-to-monitor
-        - file: our-monitors/v4-in-save-mode/troubleshooting
-        - file: our-monitors/v4-in-save-mode/load-interface
-        - file: our-monitors/v4-in-save-mode/set-the-mode
-        - file: our-monitors/v4-in-save-mode/finding-the-datafile
-        - file: our-monitors/v4-in-save-mode/sending-us-the-data
-        - file: our-monitors/v4-in-save-mode/what-save-mode-does
-        - file: our-monitors/v4-in-save-mode/accessing-data
-    - file: our-monitors/v3-in-internet-mode/intro
-      sections:   
-        - file: our-monitors/v3-in-internet-mode/what-you-will-need
-        - file: our-monitors/v3-in-internet-mode/block-other-connections
-        - file: our-monitors/v3-in-internet-mode/turn-monitor-on
-        - file: our-monitors/v3-in-internet-mode/connect-to-monitor 
-        - file: our-monitors/v3-in-internet-mode/troubleshooting
-        - file: our-monitors/v3-in-internet-mode/load-interface 
-        - file: our-monitors/v3-in-internet-mode/set-the-mode
-        - file: our-monitors/v3-in-internet-mode/connect-to-building-wifi
-        - file: our-monitors/v3-in-internet-mode/check-connection
-        - file: our-monitors/v3-in-internet-mode/what-internet-mode-does
-        - file: our-monitors/v3-in-internet-mode/accessing-data
-    - file: our-monitors/v3-in-save-mode/intro
-      sections:   
-        - file: our-monitors/v3-in-save-mode/what-you-will-need
-        - file: our-monitors/v3-in-save-mode/block-other-connections
-        - file: our-monitors/v3-in-save-mode/turn-monitor-on
-        - file: our-monitors/v3-in-save-mode/connect-to-monitor 
-        - file: our-monitors/v3-in-save-mode/troubleshooting
-        - file: our-monitors/v3-in-save-mode/load-interface
-        - file: our-monitors/v3-in-save-mode/set-the-mode
-        - file: our-monitors/v3-in-save-mode/setup-screen
-        - file: our-monitors/v3-in-save-mode/finding-the-datafile
-        - file: our-monitors/v3-in-save-mode/sending-us-the-data
-        - file: our-monitors/v3-in-save-mode/what-save-mode-does
-        - file: our-monitors/v3-in-save-mode/accessing-data
-    - file: our-monitors/early-wifi-versions
-      sections:
-        - file: our-monitors/early-wifi-versions/what-you-will-need
-        - file: our-monitors/early-wifi-versions/block-other-connections
-        - file: our-monitors/early-wifi-versions/connect-base-station
-        - file: our-monitors/early-wifi-versions/heathackhub-network
-        - file: our-monitors/early-wifi-versions/connect-to-hub
-        - file: our-monitors/early-wifi-versions/use-hub-gui
-        - file: our-monitors/early-wifi-versions/turn-on-sensor-unit
-        - file: our-monitors/early-wifi-versions/check-connection
-        - file: our-monitors/early-wifi-versions/early-conversion
-        - file: our-monitors/early-wifi-versions/troubleshooting
-        - file: our-monitors/early-wifi-versions/accessing-data
+# - file: our-monitors/intro
+#   sections:
+#     - file: our-monitors/v4-in-internet-mode/intro
+#       sections:
+#         - file: our-monitors/v4-in-internet-mode/what-you-will-need
+#         - file: our-monitors/v4-in-internet-mode/block-other-connections
+#         - file: our-monitors/v4-in-internet-mode/turn-monitor-on
+#         - file: our-monitors/v4-in-internet-mode/connect-to-monitor
+#         - file: our-monitors/v4-in-internet-mode/troubleshooting
+#         - file: our-monitors/v4-in-internet-mode/load-interface
+#         - file: our-monitors/v4-in-internet-mode/set-the-mode
+#         - file: our-monitors/v4-in-internet-mode/check-connection
+#         - file: our-monitors/v4-in-internet-mode/what-internet-mode-does
+#         - file: our-monitors/v4-in-internet-mode/accessing-data
+#     - file: our-monitors/v4-in-save-mode/intro
+#       sections:
+#         - file: our-monitors/v4-in-save-mode/what-you-will-need
+#         - file: our-monitors/v4-in-save-mode/block-other-connections
+#         - file: our-monitors/v4-in-save-mode/turn-monitor-on
+#         - file: our-monitors/v4-in-save-mode/connect-to-monitor
+#         - file: our-monitors/v4-in-save-mode/troubleshooting
+#         - file: our-monitors/v4-in-save-mode/load-interface
+#         - file: our-monitors/v4-in-save-mode/set-the-mode
+#         - file: our-monitors/v4-in-save-mode/finding-the-datafile
+#         - file: our-monitors/v4-in-save-mode/sending-us-the-data
+#         - file: our-monitors/v4-in-save-mode/what-save-mode-does
+#         - file: our-monitors/v4-in-save-mode/accessing-data
+#     - file: our-monitors/v3-in-internet-mode/intro
+#       sections:   
+#         - file: our-monitors/v3-in-internet-mode/what-you-will-need
+#         - file: our-monitors/v3-in-internet-mode/block-other-connections
+#         - file: our-monitors/v3-in-internet-mode/turn-monitor-on
+#         - file: our-monitors/v3-in-internet-mode/connect-to-monitor 
+#         - file: our-monitors/v3-in-internet-mode/troubleshooting
+#         - file: our-monitors/v3-in-internet-mode/load-interface 
+#         - file: our-monitors/v3-in-internet-mode/set-the-mode
+#         - file: our-monitors/v3-in-internet-mode/connect-to-building-wifi
+#         - file: our-monitors/v3-in-internet-mode/check-connection
+#         - file: our-monitors/v3-in-internet-mode/what-internet-mode-does
+#         - file: our-monitors/v3-in-internet-mode/accessing-data
+#     - file: our-monitors/v3-in-save-mode/intro
+#       sections:   
+#         - file: our-monitors/v3-in-save-mode/what-you-will-need
+#         - file: our-monitors/v3-in-save-mode/block-other-connections
+#         - file: our-monitors/v3-in-save-mode/turn-monitor-on
+#         - file: our-monitors/v3-in-save-mode/connect-to-monitor 
+#         - file: our-monitors/v3-in-save-mode/troubleshooting
+#         - file: our-monitors/v3-in-save-mode/load-interface
+#         - file: our-monitors/v3-in-save-mode/set-the-mode
+#         - file: our-monitors/v3-in-save-mode/setup-screen
+#         - file: our-monitors/v3-in-save-mode/finding-the-datafile
+#         - file: our-monitors/v3-in-save-mode/sending-us-the-data
+#         - file: our-monitors/v3-in-save-mode/what-save-mode-does
+#         - file: our-monitors/v3-in-save-mode/accessing-data
+#     - file: our-monitors/early-wifi-versions
+#       sections:
+#         - file: our-monitors/early-wifi-versions/what-you-will-need
+#         - file: our-monitors/early-wifi-versions/block-other-connections
+#         - file: our-monitors/early-wifi-versions/connect-base-station
+#         - file: our-monitors/early-wifi-versions/heathackhub-network
+#         - file: our-monitors/early-wifi-versions/connect-to-hub
+#         - file: our-monitors/early-wifi-versions/use-hub-gui
+#         - file: our-monitors/early-wifi-versions/turn-on-sensor-unit
+#         - file: our-monitors/early-wifi-versions/check-connection
+#         - file: our-monitors/early-wifi-versions/early-conversion
+#         - file: our-monitors/early-wifi-versions/troubleshooting
+#         - file: our-monitors/early-wifi-versions/accessing-data
 
-    - file: our-monitors/early-save-versions
-      sections: 
-        - file: our-monitors/early-save-versions/what-you-will-need
-        - file: our-monitors/early-save-versions/block-other-connections
-        - file: our-monitors/early-save-versions/step2
-        - file: our-monitors/early-save-versions/step3
-        - file: our-monitors/early-save-versions/step4
-        - file: our-monitors/early-save-versions/step5
-        - file: our-monitors/early-save-versions/bug-in-early-models
-        - file: our-monitors/early-save-versions/troubleshooting
-        - file: our-monitors/early-save-versions/accessing-data
-    - file: our-monitors/using-two-monitors
-    - file: our-monitors/making-monitors
+#     - file: our-monitors/early-save-versions
+#       sections: 
+#         - file: our-monitors/early-save-versions/what-you-will-need
+#         - file: our-monitors/early-save-versions/block-other-connections
+#         - file: our-monitors/early-save-versions/step2
+#         - file: our-monitors/early-save-versions/step3
+#         - file: our-monitors/early-save-versions/step4
+#         - file: our-monitors/early-save-versions/step5
+#         - file: our-monitors/early-save-versions/bug-in-early-models
+#         - file: our-monitors/early-save-versions/troubleshooting
+#         - file: our-monitors/early-save-versions/accessing-data
+#     - file: our-monitors/using-two-monitors
+#     - file: our-monitors/making-monitors
 
 - file: background-knowledge/working-with-data/intro
   sections:

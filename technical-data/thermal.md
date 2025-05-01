@@ -9,7 +9,13 @@ Your heating controls might already log room temperature for you.
 Relative humidity readings are also useful if you have any concerns about damp or dryness in your building.  That might be because you want to be sure the conditions are right for people, or it might be because you want to safeguard the building or its contents.  This is less important than recording temperature because if it's too damp or too dry for the people in the building, it should be obvious.  However, if you are a church with a pipe organ or other sensitive furnishings, or a building with unfrequented spaces that you think might be damp, it's useful to have a device capable of monitoring relative humidity (RH) so you can use it for this some of the time.  It's difficult to measure relative humidity accurately so you should treat the readings as approximate.
 
 
-**Venues without wifi**
+```{admonition} Tip
+:class: tip
+
+Sometimes commercial options are called "data loggers".  We just say "thermal monitor" because people seem to find this easier to understand.  
+
+
+```
 
 ::::{grid} 1 1 1 2 
 :gutter: 2
@@ -49,43 +55,30 @@ We don't know how long the batteries will last, but if the battery dies and you 
 ::::
 
 
-
-
-**Venues with wifi**
-
-
-
 It is very convenient to have a that can use your building's wifi to make the data appear on a website, although it can mean you forget to ever look at the readings.
 
 Here's an example or a commercial thermal monitor and web service - there are others:
 
 - [Lascar Easylog USB - temperature plus RH with an internet connection and cloud data storage](https://lascarelectronics.com/data-loggers/temperature-humidity/el-wifi-th/)
 
-There is at least one new company, Cheribim, that aims to help churches with monitoring as part of general building management support.  
+Many of the available options assume you can plug in your monitor, but this usually doesn't work well.  They just get unplugged by the building's users because sockets are scarce.  
 
-::::{grid} 
+There is at least one new company, Cheribim, that aims to provide with longer-term monitoring as part of general building management support.
 
-:::{grid-item}  
+````{admonition}  A change to what we do
+:class: warning
+
+
 ```{image} /images/monitoring/bare-monitor.jpg
 :alt: 
 :class: mb-1
 :height: 200px
 :align: center
 ```
-:::
-:::{grid-item}  
 
-We are always on the look out for new options coming on the market, but they usually assume you want the data instantly, so they either require an electrical socket or assume an additional device that does.  This doesn't work very well in public spaces.  They just get unplugged.  Meanwhile, there are electronics volunteers who are happy to make up monitors designed for our needs from parts. 
-:::
-::::
-
-They are not CE marked but the lead electronics volunteer tests them at home before sending them out. We do not sell them but we have been loaning them to organisations on this understanding.  Setting them up with your wifi details is a pain but we now ship them with your wifi details pre-loaded.  We are currently reviewing this as the new Thermopro is a cheap option that seems to work in practice for the organisations we serve and expect to make a decision about whether to stop loaning ours in the spring of 2025.  It costs us about £10 to make and post them out, and at the moment we're paying around £300 a year for service that gets the data to the internet for all our venues.  We don't face costs for getting even Thermopro data to the internet and putting the data into plots on-line, but only because we've been lucky to find software engineers and designers willing to do pro bono work.  We're OK for now, but if we do continue to use them we may need to find a way to cover these costs.
+We know how to make and field battery-operated thermal monitors that can use wifi.  We are suspending support for them from May 2025 because most of our current venues use Thermopros.  We don't have enough venues using our monitors this year to make it worth paying the cloud service costs for them.  If we find groups would benefit from us bringing them back into service, we will do that.  Meanwhile, our priority is to automate producing our data plots from data files emailed to us, as we know that some groups value this.
+````
 
 
-```{admonition} Tip
-:class: tip
+ 
 
-Sometimes commercial options are called "data loggers".  We just say "thermal monitor" because people seem to find this easier to understand.  
-
-
-```
