@@ -60,7 +60,7 @@ Also, it takes a lot of energy to heat up stone, so it's often cold.  Moisture i
  
  ```{admonition}  What if the building is already damp?
 
-If your building is already damp, you need to provide enough ventilation to dry it out.  Trying to dry things out by keeping the heating on is expensive and doesn't work as well.  Dehumidifiers are OK in some buildings, but if you have a traditional building, current thinking appears to be that this will be slower than just increasing the airflow in the area inside the building.  If there isn't enough ventilation in the right area, one source advocates directing fans at the damp surfaces.   We've seen a couple of conflicting explanations of why dehumidifiers are slower, so we're still working on this one.  
+If your building is already damp, you need to provide enough ventilation to dry it out.  Trying to dry things out by keeping the heating on is expensive and doesn't work as well.  Dehumidifiers are OK in some buildings, but if you have a traditional building, current thinking appears to be that this will be slower than just increasing the airflow in the area inside the building.  If there isn't enough ventilation in the right area, one source advocates directing fans at the damp surfaces.   We've seen a couple of competing explanations of why dehumidifiers are slower, so we're still working on this one.
 
 <!--  one based on disruptions to the natural water vapour movement through the stone and the other involving moisture in the air outside being drawn into the building.  -->
 
@@ -72,7 +72,7 @@ Your priorities are:
 - replace any components that are structurally damaged, retaining as much as possible
 - replaster and redecorate
 
-There are many, many firms selling damp-proof courses, impermeable membranes, and chemical treatments meant to prevent decay in timber.  Sometimes they use damp meters incorrectly to demonstrate that an area needs treatment.  Maybe they mean well, but our understanding is that these often do more harm than good.  For timber in particular, use your money to keep the area dry instead of applying something intended to keep rot from getting hold if the area gets wet again.  Rot can't survive if the area is dry in the first place.  
+Many firms sell damp-proof courses, impermeable membranes, and chemical treatments meant to prevent decay in timber.  Sometimes they use damp meters incorrectly to demonstrate that an area needs treatment.  Maybe they mean well, but our understanding is that these usually do more harm than good.  For timber in particular, use your money to keep the area dry instead of applying something intended to keep rot from getting hold if the area gets wet again.  Rot can't survive if the area is dry in the first place.  
 
 ```
 
