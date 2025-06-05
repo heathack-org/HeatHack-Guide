@@ -45,25 +45,28 @@ There may be cheaper options but we haven't tried them.
 :align: center
 ```
 
-We are only aware of one suitable model, the Thermopro TP357s, but there are probably others.  You use the Thermopro sensor app to pair it with a phone using Bluetooth and then you can export the data to a file for Excel or similar.  You can pair more than one but use stickers to label them and then turn them on one at a time and change the names so you can tell them apart. 
+We are only aware of one suitable model, the Thermopro TP357s, but there are probably others.  You use the Thermopro sensor app to pair it with a phone using Bluetooth and then you can export the data to a file for Excel or similar.  You can have more than one Thermopro, but use stickers to label them and then turn them on one at a time and change the names so you can tell them apart. 
 
-- [Thermopro TP357s, labelled as TP357](https://www.amazon.co.uk/dp/B093PT1NL1?ref=myi_title_dp&th=1)
+- [Thermopro TP357](https://www.amazon.co.uk/dp/B093PT1NL1?ref=myi_title_dp&th=1)
 - [Thermopro Sensor app](https://buythermopro.com/thermometer-apps-remote-monitoring/)
 
-We don't know how long the batteries will last, but if the battery dies and you put a new one in, the data will still be there.  You can use the same phone with more than one Thermopro.  If you want to avoid Amazon, make sure you get the TP357s, not stock from before February 2024. The Thermopro chat advisers are very helpful.
+We don't know how long the batteries will last, but if the battery dies and you put a new one in, the data will still be there. If you have any questions, the Thermopro chat advisers are very helpful.  If you look at other models, make sure you can download the data.  This was a new feature for February 2024.
 :::
 ::::
 
 
-It is very convenient to have a that can use your building's wifi to make the data appear on a website, although it can mean you forget to ever look at the readings.
+It is very convenient to have a monitor that can use your building's wifi to send the data to cloud storage and plot it online, although they are relatively expensive and it can mean you forget to ever look at the readings.
 
-Here's an example or a commercial thermal monitor and web service - there are others:
+Here's are two examples of commercial thermal monitors and web services - there are others:
 
 - [Lascar Easylog USB - temperature plus RH with an internet connection and cloud data storage](https://lascarelectronics.com/data-loggers/temperature-humidity/el-wifi-th/)
+- [Netatmo weather station and additional indoor modules](https://www.netatmo.com/en-gb/weather-station-original)
 
-Many of the available options assume you can plug in your monitor, but this usually doesn't work well.  They just get unplugged by the building's users because sockets are scarce.  
+We haven't tried them. Many of the available options assume you can plug in your monitor, but this usually doesn't work well.  They just get unplugged by the building's users because sockets are scarce.  
 
-There is at least one new company, Cheribim, that aims to provide with longer-term monitoring as part of general building management support.
+For historic buildings, there is a new company, Cheribim, that provides longer-term monitoring as part of general building management support.
+
+- [Cheribim](https://www.cheribimapp.com/)
 
 ````{admonition}  A change to what we do
 :class: warning
@@ -76,7 +79,10 @@ There is at least one new company, Cheribim, that aims to provide with longer-te
 :align: center
 ```
 
-We know how to make and field battery-operated thermal monitors that can use wifi.  We are suspending support for them from May 2025 because most of our current venues use Thermopros.  We don't have enough venues using our monitors this year to make it worth paying the cloud service costs for them.  If we find groups would benefit from us bringing them back into service, we will do that.  Meanwhile, our priority is to automate producing our data plots from data files emailed to us, as we know that some groups value this.
+We know how to make and field battery-operated thermal monitors that can use wifi.  We are suspending support for them from May 2025 because most of our current venues use Thermopros.  We don't have enough venues using our monitors this year to make it worth paying the cloud service costs for them.  If we find they are needed,we will bring them back.  We're also considering whether we should launch a service to produce our Data Book style plots from commercial thermal monitor data, possibly with the option to show them against when the building is in use and the heating timings, as we have done for one project.  If you have been using monitors and have views on this, do let us know what they are.
+
+- [HeatHack Data Book](https://jeancarletta.github.io/HeatHack-Data/)
+
 ````
 
 
