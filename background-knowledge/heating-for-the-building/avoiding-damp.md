@@ -52,7 +52,7 @@ In traditional buildings:
 
 ```{admonition} Churches and other stone buildings in occasional use
 
-The Victorians were so worried about disease and had access to such cheap coal that their churches are sometimes over-ventilated.  Churches also sometimes have ventilation features that were designed to be shut while the building was warming up for a service and opened afterwards to let the moisture people generate out, until the next time heating is required.  Two examples are sliding vents under the windows and rope pulls for opening and closing the louvres on church towers. Although you might not have the people around to run them, it can still be useful to understand the design.  It can be hard to find professionals with the right skills to assess how much ventilation you need, but it can save a lot of energy to get this right.
+The Victorians were so worried about disease and had access to such cheap coal that their churches are sometimes over-ventilated.  Churches also sometimes have ventilation features that were designed to be shut while the building was warming up for a service and opened afterwards to let the moisture people generate out, until the next time heating is required.  Two examples are sliding vents under the windows and rope pulls for opening and closing the louvres on church towers. Although you might not have the people around to run them, it can still be useful to understand the design.  It can be hard to find professionals with the right skills to assess how much ventilation you need, but it can save a lot of energy and draughts if you get this right.
 
 Also, it takes a lot of energy to heat up stone, so it's often cold.  Moisture in air can condense on cold surfaces, for instance, if you let lots of warm air into a very cold stone building on a fine spring day.  In the winter, stained glass windows are often the coldest surfaces and so a good place to look for issues.  Condensation on them can cause the colours the leach out of the glass. 
 
@@ -60,19 +60,21 @@ Also, it takes a lot of energy to heat up stone, so it's often cold.  Moisture i
  
  ```{admonition}  What if the building is already damp?
 
-If your building is already damp, you need to provide enough ventilation to dry it out.  Trying to dry things out by keeping the heating on is expensive and doesn't work as well.  Dehumidifiers are OK in some buildings, but if you have a traditional building, current thinking appears to be that this will be slower than just increasing the airflow in the area inside the building.  If there isn't enough ventilation in the right area, one source advocates directing fans at the damp surfaces.   We've seen a couple of competing explanations of why dehumidifiers are slower, so we're still working on this one.
-
-<!--  one based on disruptions to the natural water vapour movement through the stone and the other involving moisture in the air outside being drawn into the building.  -->
-
+If your building is already damp, you need to provide enough ventilation to dry it out.  Trying to dry things out by keeping the heating on is expensive and doesn't work as well.  
 
 Your priorities are:
 
-- fix the leak or correct the wrong material
-- dry out the building
+- fix the leak or change whatever is causing the damp problem by e.g. removing unbreatheable materials or improving drainage
+- dry out the building - which can take a very long time
 - replace any components that are structurally damaged, retaining as much as possible
 - replaster and redecorate
 
-Many firms sell damp-proof courses, impermeable membranes, and chemical treatments meant to prevent decay in timber.  Sometimes they use damp meters incorrectly to demonstrate that an area needs treatment.  Maybe they mean well, but our understanding is that these usually do more harm than good.  For timber in particular, use your money to keep the area dry instead of applying something intended to keep rot from getting hold if the area gets wet again.  Rot can't survive if the area is dry in the first place.  
+In traditional buildings, there doesn't appear to be settled opinion about whether it's a good idea to use dehumidifiers to dry out rather than just increasing the ventilation.  Some people think dehumidifiers are slower than just using ventilation and spend energy trying, eventually, to dry the whole world; others worry about buildings drying out to quickly, because the materials don't like rapid change.  If there isn't enough ventilation in the right area, one source advocates directing fans at the damp surfaces.   
+
+<!--  possible reasons why dehumidifers are slower:  one based on disruptions to the natural water vapour movement through the stone and the other involving moisture in the air outside being drawn into the building.  -->
+
+
+Many firms sell damp-proof courses, impermeable membranes, and chemical treatments meant to prevent decay in timber.  Sometimes they use damp meters incorrectly to demonstrate that an area needs treatment.  Maybe they mean well, but our understanding is that in traditional buildings these do more harm than good.  For timber in particular, use your money to keep the area dry instead of applying something intended to keep rot from getting hold if the area gets wet again.  Rot can't survive if the area is dry.  
 
 ```
 
