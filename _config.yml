@@ -61,8 +61,9 @@ html:
   # we don't have URL query parameters apart from in the search bar, so personal information is unlikely to get to Google that way.
   # That means as long as a google tag is set up carefully, we won't be collecting personal information and don't need to collect user consent
   # using a cookie consent manager.
-  analytics:
-    google_analytics_id: G-RHR48JXM45
+  # doesn't result in the full js Google requires in each header
+  #analytics:
+  #  google_analytics_id: G-RHR48JXM45
  
 
 
