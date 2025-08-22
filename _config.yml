@@ -52,6 +52,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
+  favicon: heathack_favicon.png
   extra_footer: <p> <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Creative Commons Attribution-ShareAlike 4.0 International Public License </a></p> 
   # allow anyone with a Github account to submit an issue, and collaborators to actually edit the repo. Might want to protect the main branch if use the feature.
   # for now, just for discussions with others about how to open up editing.
