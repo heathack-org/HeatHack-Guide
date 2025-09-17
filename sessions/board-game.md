@@ -24,10 +24,10 @@ The **first time** the game is played, it's to tell a simple story about what ha
 
 
 <iframe width="315" height="240"
-src="https://www.youtube.com/embed/r0cL7EssesI">
+src="https://www.youtube-nocookie.com/embed/r0cL7EssesI">
 </iframe>
 
-   - [How to Play the Board Game - First Time](https://youtu.be/r0cL7EssesI) 
+   - [How to Play the Board Game - First Time](https://www.youtube.com/watch?v=r0cL7EssesI) 
 :::
 :::{grid-item} 
 :columns: 6
@@ -43,10 +43,10 @@ The **second time**, the engineer will have temperature data from the building, 
 :columns: 6
 
 <iframe width="315" height="240"
-src="https://www.youtube.com/embed/uViTDw4-Iwc">
+src="https://www.youtube-nocookie.com/embed/uViTDw4-Iwc">
 </iframe>
 
-   - [How to Play the Board Game - Second Time](https://youtu.be/uViTDw4-Iwc) 
+   - [How to Play the Board Game - Second Time](https://www.youtube.com/watch?v=uViTDw4-Iwc) 
 
 :::
 ::::

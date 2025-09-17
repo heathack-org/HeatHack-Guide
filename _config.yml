@@ -59,12 +59,11 @@ html:
   use_issues_button: true 
   use_repository_button: true 
   use_edit_page_button: true
-  # we don't have URL query parameters apart from in the search bar, so personal information is unlikely to get to Google that way.
-  # That means as long as a google tag is set up carefully, we won't be collecting personal information and don't need to collect user consent
-  # using a cookie consent manager.
-  # doesn't result in the full js Google requires in each header
-  #analytics:
-  #  google_analytics_id: G-RHR48JXM45
+  # we have set up the google tag to deny consent for everything, which should mean we get very poor analytics that just give us page loads, without 
+  # needing cookie consent, which looks difficult to set up. In reality, we get nothing.
+
+  analytics:
+    google_analytics_id: G-RHR48JXM45
  
 
 

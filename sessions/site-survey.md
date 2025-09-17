@@ -6,7 +6,7 @@
 :columns: 6
 This activity is a simplified version of what energy efficiency consultants do during a site survey. During it, the group fills out a form with basic information about parts of the building that relate to heating, heat loss, and ventilation.
 
-   - [The Site Survey (Video)](https://youtu.be/fdYA978sLq8) 
+   - [The Site Survey (Video)](https://www.youtube.com/watch?v=fdYA978sLq8) 
    - [Building Survey Form](https://docs.google.com/document/d/13ByjSw0NQAjF7fzfruSMPpP4ebGHkNFw)
 :::
 
@@ -14,7 +14,7 @@ This activity is a simplified version of what energy efficiency consultants do d
 :columns: 6
 
 <iframe width="315" height="240"
-src="https://www.youtube.com/embed/fdYA978sLq8">
+src="https://www.youtube-nocookie.com/embed/fdYA978sLq8">
 </iframe>
   
 :::

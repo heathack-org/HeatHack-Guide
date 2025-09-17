@@ -15,7 +15,7 @@ To participate, you will need to have six people who want to be involved, plus t
 :columns: 6
 
 <iframe width="315" height="240"
-src="https://www.youtube.com/embed/cQymJ5LXTAE">
+src="https://www.youtube-nocookie.com/embed/cQymJ5LXTAE">
 </iframe>
 
    - [Choosing your Group](https://youtu.be/cQymJ5LXTAE) 

@@ -15,7 +15,7 @@ We haven't put these materials behind a password or paywall because we know barr
 :columns: 6
 
 <iframe width="315" height="240"
-src="https://www.youtube.com/embed/P1Lu8RFfii0">
+src="https://www.youtube-nocookie.com/embed/P1Lu8RFfii0">
 </iframe>
 :::
 ::::
@@ -51,7 +51,7 @@ The workshops are based on our programme, and you will use this Guide Book for r
 
 <!-- width="210" height="157" -->
 <iframe width="180" 
-src="https://www.youtube.com/embed/OkUaYvjk3ls">
+src="https://www.youtube-nocookie.com/embed/OkUaYvjk3ls">
 </iframe>
 :::::
 

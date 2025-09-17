@@ -23,10 +23,10 @@ To play it, you need to spread out the cards and set out four areas for them to 
 
 
 <iframe width="315" height="240"
-src="https://www.youtube.com/embed/dBEl7wL_xAA">
+src="https://www.youtube-nocookie.com/embed/dBEl7wL_xAA">
 </iframe>
 
-   - [Card Game Instruction Video](https://youtu.be/dBEl7wL_xAA) 
+   - [Card Game Instruction Video](https://www.youtube.com/watch?v=dBEl7wL_xAA) 
    - [Full explanation with all the cards](card-game-intro)
 :::
 ::::

@@ -10,7 +10,7 @@
 :columns: 12
 
 <iframe width="420" height="364"
-src="https://www.youtube.com/embed/dBEl7wL_xAA">
+src="https://www.youtube-nocookie.com/embed/dBEl7wL_xAA">
 </iframe>
 
 <!-- ```{image} /images/card-game/card-sorting-2-cropped-to-be-unidentifiable.jpg 
