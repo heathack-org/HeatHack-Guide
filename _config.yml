@@ -62,8 +62,8 @@ html:
   # we have set up the google tag to deny consent for everything, which should mean we get very poor analytics that just give us page loads, without 
   # needing cookie consent, which looks difficult to set up. In reality, we get nothing.
 
-  analytics:
-    google_analytics_id: G-RHR48JXM45
+  #analytics:
+  #  google_analytics_id: G-RHR48JXM45
  
 
 
