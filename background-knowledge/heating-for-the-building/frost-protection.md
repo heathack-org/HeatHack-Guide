@@ -6,9 +6,27 @@ Older boilers might have a frost protection mode you can switch to manually, but
 
 It's also worth checking your frost arrangements are working - by seeing what happens in the autumn - and aren't doing anything unintended.  We found one frost setup in a modern church hall that had been keeping the building at 21C constantly for 10 years because it had been installed incorrectly.
 
+
+
+````{admonition} Worried about your plumbing?
+
 If you're worried about any of the plumbing freezing, insulating the most vulnerable pipes and tanks will help.  If needed, you can get small pipe heaters designed specifically for frost protection.  This is far cheaper than running the main heating.  Some are small, thermostatically controlled tubular heaters, and others are heated cables or tapes that you run along or around the pipes.
 
-<!-- show an example -->
+
+
+```{image} /images/titulni.jpg
+:alt: a cable that plugs into mains electricity and, when wrapped around a pipe, keeps it from freezing
+:class:  mb-1
+:height: 300px
+```
+*Image by kind permission of Flexel, the manufacturer*
+:::
+::::
+
+
+
+````
+
 
 - [How does boiler frost protection work? From a boiler comparison site](https://www.boilerguide.co.uk/articles/frost-protection-heating)	
 - [Frost protection for churches - from the Church of England](https://www.churchofengland.org/sites/default/files/2021-01/CCB_frost_protection_COVID_guidance_issue1_January2021.pdf)	
