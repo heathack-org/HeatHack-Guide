@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: HeatHack Guide Book
-author: HeatHack 
-copyright: 2022-23
+author: HeatHack - a Scottish Charitable Incorporated Organisation regulated by the Office of the Scottish Charity Regulator, registration SC054622.
+copyright: 2022-26
 logo: ./images/heat_hack_logo1.png
 exclude_patterns: [redundant, unfiled, README.md, card-game/aux, card-game/card-explanations, card-game/_cards/48.md]
 

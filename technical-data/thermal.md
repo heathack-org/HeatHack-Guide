@@ -12,7 +12,7 @@ Relative humidity readings are also useful if you have any concerns about damp o
 ```{admonition} Tip
 :class: tip
 
-Sometimes commercial options are called "data loggers".  We just say "thermal monitor" because people seem to find this easier to understand.  
+Sometimes commercial options are called "data loggers".  We say "thermal monitor" because people seem to find this easier to understand.  
 
 
 ```
@@ -30,9 +30,9 @@ Sometimes commercial options are called "data loggers".  We just say "thermal mo
 
 There are USB sticks that save the data for you.  This one comes with free Windows sofware.  You tell them when to start recording data and how often, and then when you come back to pick up the data, you can download it for use in Excel or similar, or use the plotting software provided.
 
-- [Lascar temperature only](https://www.lascarelectronics.com/easylog-el-usb-1)  
-- [Lascar with RH](https://www.lascarelectronics.com/easylog-el-usb-2)
-- [Lascar Easylog USB software](https://lascarelectronics.com/software/easylog-software/easylog-usb/)
+- [Lascar temperature only](https://lascarelectronics.com/intl/data-loggers/temperature-data-loggers/el-usb-1)  
+- [Lascar with RH](https://lascarelectronics.com/intl/data-loggers/temperature-humidity/el-usb-2)
+- [Lascar Easylog USB software](https://lascarelectronics.com/intl/software/easylog-software/easylog-usb)
 
 There may be cheaper options but we haven't tried them.  
 :::
@@ -45,22 +45,22 @@ There may be cheaper options but we haven't tried them.
 :align: center
 ```
 
-We are only aware of one suitable model, the Thermopro TP357s, but there are probably others.  You use the Thermopro sensor app to pair it with a phone using Bluetooth and then you can export the data to a file for Excel or similar.  You can have more than one Thermopro, but use stickers to label them and then turn them on one at a time and change the names so you can tell them apart. 
+The Thermopro TP357 is inexpensive and does the job.   You use the Thermopro sensor app to pair it with a phone using Bluetooth and then you can export up to two years of data for use in a spreadsheet. For most heating systems, data every minute is overkill - choose data every 15 minutes instead. If you have more than one Thermopro, use stickers to label them and turn them on one at a time so you can give them unique names in the app. 
 
 - [Thermopro TP357](https://www.amazon.co.uk/dp/B093PT1NL1?ref=myi_title_dp&th=1)
 - [Thermopro Sensor app](https://buythermopro.com/thermometer-apps-remote-monitoring/)
 
-We don't know how long the batteries will last, but if the battery dies and you put a new one in, the data will still be there. If you have any questions, the Thermopro chat advisers are very helpful.  If you look at other models, make sure you can download the data.  This was a new feature for February 2024.
+We think the batteries last around a year. If the battery dies and you put a new one in, the data will still be there. If you have any questions, the Thermopro chat advisers are very helpful. Whatever you buy, make sure it runs on batteries so you don't have to keep it plugged in and that it will let you save the data for use elsewhere. 
 :::
 ::::
 
 
-It is very convenient to have a monitor that can use your building's wifi to send the data to cloud storage and plot it online, although they are relatively expensive and it can mean you forget to ever look at the readings.
+It is very convenient to have a monitor that can use your building's wifi to send the data to cloud storage and plot it online, although they are relatively expensive and it can mean you forget to ever look at the readings.  They have to be placed where the wifi is strong enough.
 
 Here's are two examples of commercial thermal monitors and web services - there are others:
 
-- [Lascar Easylog USB - temperature plus RH with an internet connection and cloud data storage](https://lascarelectronics.com/data-loggers/temperature-humidity/el-wifi-th/)
-- [Netatmo weather station and additional indoor modules](https://www.netatmo.com/en-gb/weather-station-original)
+- [Lascar Easylog USB - temperature plus RH with an internet connection and cloud data storage](https://lascarelectronics.com/intl/data-loggers/temperature-humidity/el-wifi-th)
+- [Netatmo weather station and additional indoor modules](https://www.netatmo.com/en-gb/weather-station-original-sand)
 
 We haven't tried them. Many of the available options assume you can plug in your monitor, but this usually doesn't work well.  They just get unplugged by the building's users because sockets are scarce.  
 
