@@ -14,9 +14,13 @@ We haven't put these materials behind a password or paywall because we know barr
 :::{grid-item}
 :columns: 6
 
-<iframe width="315" height="240"
+<!-- <iframe width="315" height="240"
 src="https://www.youtube-nocookie.com/embed/P1Lu8RFfii0">
 </iframe>
+-->
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P1Lu8RFfii0?si=0U60Y9hbyiQpsGX-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 :::
 ::::
 
@@ -50,9 +54,8 @@ The workshops are based on our programme, and you will use this Guide Book for r
 :columns: 3
 
 <!-- width="210" height="157" -->
-<iframe width="180" 
-src="https://www.youtube-nocookie.com/embed/OkUaYvjk3ls">
-</iframe>
+
+<iframe width="250"  src="https://www.youtube-nocookie.com/embed/OkUaYvjk3ls?si=0U60Y9hbyiQpsGX-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::::
 
 :::::{grid-item}
