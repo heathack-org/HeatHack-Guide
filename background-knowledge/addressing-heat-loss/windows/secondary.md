@@ -21,12 +21,10 @@ Secondary glazing can be a very good option in some buildings, especially if cha
 
 :::{grid-item} 
 :columns: 8
-Be very cautious if your glass is decorative.  **Stained glass** needs very good airflow around it because any condenstaion will leach the chemicals out of the glass and ruin the colours.  During the last energy crisis, many churches put in interior secondary glazing and then had to remove it.  Although there are vendors willing to install it, it isn't clear anyone is sure of how to install it safely.  Because of this, for stained glass, secondary glazing goes on the **outside** of the window and with a large gap all the way around for airflow.  This of course reduces its effectiveness.  
+Be cautious if your glass is decorative.  **Stained glass** needs good airflow around it because any condensation will leach the chemicals out of the glass and ruin the colours.  The usual strategy is to put the secondary glazing on the  **outside** of the window with a large gap so there is good airflow on both sides of the window.  This of course reduces its effectiveness.  During the last energy crisis in the 1970's, many churches put in interior secondary glazing and then had to remove it.  There are churches where it's been tried and works well, though.  If you are considering this option, quiz your supplier carefully, talk to their previous heritage clients, and keep in mind that every heritage building is unique - what works for one might not work for another.  
 
+If you need to apply for listed building consent to make changes to a historic window, be very clear why you want the secondary glazing and that ventilation has been considered in the design.  Planners often assume you only want to protect the window against vandalism and insist on metal grilles instead because they are less noticeable.  If your windows aren't that high profile, or if the glazing will make the difference between a building that's usable and one that could become disused or abandoned, your application is more likely to be approved. 
 
-If you need to apply for listed building consent, be very clear why you want the secondary glazing and that ventilation has been considered in the design.  Planners often assume you only want to protect the window against vandalism and insist on metal grilles instead because they are less noticeable.  If your windows aren't that high profile, or if the glazing will make the difference between a building that's usable and one that could become disused or abandoned, your application is more likely to be approved.  
-
-Sometimes venues with very mediocre stained glass of no significance change it for clear double glazing.  
 :::
 ::::
 
@@ -37,6 +35,8 @@ Sometimes venues with very mediocre stained glass of no significance change it f
 - [Secondary glazing - general explanation](https://www.homebuilding.co.uk/advice/secondary-glazing)
 - [U-value calculations - table shows many glazing options (technical)](https://www.gov.scot/publications/tables-of-u-values-and-thermal-conductivity/)
 - [General advice for decorative glass](https://www.engineshed.scot/building-advice/building-materials/glass/)
+- [Cocoon - for many windows including stained glass](https://www.cocoon.tech/)
+- [Gecko for sash and case windows](https://geckoglazing.co.uk)
 ```
 
 

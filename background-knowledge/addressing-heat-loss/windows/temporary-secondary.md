@@ -7,8 +7,6 @@ Secondary glazing is expensive and can take time to arrange.  If you don't need 
 
 Historic Environment Scotland says that it is possible to achieve a U-value of 2.4 this way - not as good as better glazing, but enough to make a noticeable difference to comfort.   The distance between the polycarbonate and the window glass makes a difference; 12mm is the ideal.  There are other materials besides polycarbonate, like acrylic - check the u-values, price, and whether they will get less transparent over time.
 
-There is also at least one vendor for easy-fit acrylic secondary panes for the two halves of timber sash windows that can be left on even when the window opens.  
-
 ::::{grid} 1 1 1 2
 :gutter: 2
 
@@ -27,7 +25,6 @@ There is also at least one vendor for easy-fit acrylic secondary panes for the t
 :::
 ::::
 
-
 Another very temporary very cheap option, is a thick plastic wrap that you tape over the window and then shrink to fit using a hairdryer.   It’s a tenth the price, but it blocks a lot of light and every time you need to open the window, you have to start over with a new piece.  
 
 
@@ -36,5 +33,5 @@ Another very temporary very cheap option, is a thick plastic wrap that you tape 
 - [Refurbishment Case Study 2 (Historic Environment Scotland)](https://www.historicenvironment.scot/archives-and-research/publications/publication/?publicationId=4d0179ad-3306-42a0-87d8-a59300faac09)
 - [Secondary glazing (including the cheap options)](https://www.cse.org.uk/advice/advice-and-support/secondary-glazing)
 - [Explanation video](https://www.youtube.com/watch?v=aEBbSkjkCik)
-- [Company supplying easy-fit version for timber sash windows - there are probably others](https://geckoglazing.co.uk)
+
 ```
