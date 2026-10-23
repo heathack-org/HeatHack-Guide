@@ -1,7 +1,7 @@
 (double-glazing)=
 # Double and triple glazing
 
-If you're thinking of changing your glazing, think first about what the problem is.  It makes a big difference to move from single glazing to double, but we're less sure about replacing old double glazing with new.  If you're considering this, you want to be sure the glazing and frames will let less heat through.  Often the problem with old windows is just that they're draughty, but in that case, draughtproofing them is a better option.   
+If you're thinking of changing your glazing, think first about what the problem is.  It makes a big difference to move from single glazing to double, but we're less sure about replacing old double glazing with new.  If you're considering this, you want to be sure the glazing and frames will let less heat through.  Often the problem with old windows is just that they're draughty.   
 
 If you have double glazing and your walls are uninsulated, we're told triple glazing won't be worth the added cost.
 
